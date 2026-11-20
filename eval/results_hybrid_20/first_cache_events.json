@@ -1,0 +1,1127 @@
+[
+  {
+    "query_id": "route_1",
+    "variant": "routing",
+    "phase": "route_llm",
+    "signature": "4b60828b0a3ec661c24217b24ac186047a46ec7c01c31d99a6e7375b1d073f35",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.575276799998392
+  },
+  {
+    "query_id": "route_2",
+    "variant": "routing",
+    "phase": "route_llm",
+    "signature": "5935a37c9656d4f57eae3adc473516ad334adb81dc3867257433df7396db6b04",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 5.665536499996961
+  },
+  {
+    "query_id": "route_3",
+    "variant": "routing",
+    "phase": "route_llm",
+    "signature": "d581fb92b7e10fd594f56623f882586c60c8ae3273ea4bbe9a39e85892e961e6",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.547291800001403
+  },
+  {
+    "query_id": "route_4",
+    "variant": "routing",
+    "phase": "route_llm",
+    "signature": "65ede7739f85501cef1a5170cfa7d44e33fc87c94ee08bd8179450a8c96368d5",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 5.193270799998572
+  },
+  {
+    "query_id": "route_4",
+    "variant": "routing",
+    "phase": "route_llm",
+    "signature": "dca6c68f3e326ecede7f78b0ccbb39cf81422827cad1807572e340e014038e94",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.05769479999799
+  },
+  {
+    "query_id": "q001",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "9a37745b8a4963f164b9b011c3f3382bbe5c8e49c5307344f89f7f5c12109a0e",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 8.197216599997773
+  },
+  {
+    "query_id": "q001",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "7491990731915f58566ae02d68f0e75a3aebd5a74b907e31a1fac9dd765955cc",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.9954744999995455
+  },
+  {
+    "query_id": "q001",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "af7532df4850f3fadceb2e6f6f119d23413b9185da8311e7de8c4c930546200b",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.47857180000210064
+  },
+  {
+    "query_id": "q001",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "347020f8b0c3b6b89b26c6deda6ef16ecd9a8ed0683bed7358d0e54296e39958",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 9.355565800000477
+  },
+  {
+    "query_id": "q001",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "b87a4001e10caae79b8ea06995be00d5d0fc36ef73961b5ff1443becbef07bff",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 5.889539200001309
+  },
+  {
+    "query_id": "q001",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "b87a4001e10caae79b8ea06995be00d5d0fc36ef73961b5ff1443becbef07bff",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 5.889539200001309
+  },
+  {
+    "query_id": "q004",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "8db6609ba04ebb82c87f937fd17c597ba505113486d0e98912eef4636176417d",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.4708212000005005
+  },
+  {
+    "query_id": "q004",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "bd3a49ca853766b6994ea85d6f220fcfbf8fde92b7a2c9acdd84d8fac7f40fa8",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4476859999995213
+  },
+  {
+    "query_id": "q004",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "8b35cebc36292e24fd97eaa6ea5f82088392a249aecc4466c5773614d965e748",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.49016439999832073
+  },
+  {
+    "query_id": "q004",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "00cde740c5a583e46e730c3fd5bd47da74a1c6752b8f1db33be155db897c3f2c",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.695162500000151
+  },
+  {
+    "query_id": "q004",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "66ca156018ab676a19f60fc7e646f5dcea10c2084ea28c45c2f3dbe242f04174",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 5.894846799998049
+  },
+  {
+    "query_id": "q004",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "66ca156018ab676a19f60fc7e646f5dcea10c2084ea28c45c2f3dbe242f04174",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 5.894846799998049
+  },
+  {
+    "query_id": "q008",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "171ecb3da072c97a0a0034a04eee20f5a02ad829fa695ab66996c3c0719270a9",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 7.447772499999701
+  },
+  {
+    "query_id": "q008",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "270479da3268e8c8b9700a2bc0e9c53551f6a29264ce5a2e9f435be2984c49ab",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.42984100000103354
+  },
+  {
+    "query_id": "q008",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "76cc5eff130892ff541629ed9b4b6164e93fedc499f5cbf5d3bdaef25d0a0c23",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5026906000020972
+  },
+  {
+    "query_id": "q008",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "0360110fc30f8da675af8b1f1232215f70e59ae7093c7fafd6236218a815a76f",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.253564199996617
+  },
+  {
+    "query_id": "q008",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "01463a019ab1cdca537e470329bebed883033562871d5144f8ec77ca103a471a",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 10.067960500000481
+  },
+  {
+    "query_id": "q008",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "01463a019ab1cdca537e470329bebed883033562871d5144f8ec77ca103a471a",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 10.067960500000481
+  },
+  {
+    "query_id": "q011",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "52fd9fa8fdf996dc9a013e716eb1ec129106c318d094922b364b150fa73c0826",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.474736199998006
+  },
+  {
+    "query_id": "q011",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "b6490d0de90feb5afb2ab44a42a1879d473aadbf6b36c6ea04adcaae91c8ace2",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.43148999999903026
+  },
+  {
+    "query_id": "q011",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "3889c8d3209e0998548f94bb74afd3e30bf07bb017cc1c32b8a7ad1a0eec5f37",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5101036999985809
+  },
+  {
+    "query_id": "q011",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "9cead1e9138721326f72e91b18c2c4179cd60dda4fb583f1dc81f4ad8e07b834",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.074023599998327
+  },
+  {
+    "query_id": "q011",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "2a1deffebaea59502736229b410099ed7d4a034b9db12f36ee31ef5c4c0bc5e4",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.201846100000694
+  },
+  {
+    "query_id": "q011",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "2a1deffebaea59502736229b410099ed7d4a034b9db12f36ee31ef5c4c0bc5e4",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 6.201846100000694
+  },
+  {
+    "query_id": "q014",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "98087f6572b4ec2cb7a19aafed1bc779c3124df80f8f47bfc575782f17b42c5d",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 7.841642999999749
+  },
+  {
+    "query_id": "q014",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "ea7524abd6b0b74f4906f929a3fca77c08a257cbc5bc32742d66dfad703e8039",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.9284632000017154
+  },
+  {
+    "query_id": "q014",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "c660e4247812bf1b7dd6e7e7a6d89610d8cae746f5307161ce3906ed039bbb6b",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4969846999993024
+  },
+  {
+    "query_id": "q014",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "f4a6f84e51ff2b33255e26843b49043fb9cf57c0b8cd205922b47eb0c84f82f4",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 9.69768699999986
+  },
+  {
+    "query_id": "q014",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "40f4a10d3930d762214007aacfa0d06c0c0f1f31ff65c9ef1006f1d9bb784c36",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.350714100000914
+  },
+  {
+    "query_id": "q014",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "40f4a10d3930d762214007aacfa0d06c0c0f1f31ff65c9ef1006f1d9bb784c36",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 8.350714100000914
+  },
+  {
+    "query_id": "q017",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "04d455aad461b6de76b8fefe89162ce0a7556b11b908d8a1d494b1adfb3f8e30",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.874975999999151
+  },
+  {
+    "query_id": "q017",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "5882a2407b60301bec938ae984488bbf2b091f890af74e418fefcb63ba1c2073",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4657585000022664
+  },
+  {
+    "query_id": "q017",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "32cc81287a70843908e314bdcd92534e3cddee1d272b6f52e1fa74ab97eaf85a",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5138145000018994
+  },
+  {
+    "query_id": "q017",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "0df66b7164f5029c2d086d71fc5a236919f4276a3140a0adaf95395366ff1ccb",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 9.744190899997193
+  },
+  {
+    "query_id": "q017",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "1212045af65d9308554c639bed57b0c32ce746995e890ac6a3ac05e43bbb4377",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.086386999999377
+  },
+  {
+    "query_id": "q017",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "1212045af65d9308554c639bed57b0c32ce746995e890ac6a3ac05e43bbb4377",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 6.086386999999377
+  },
+  {
+    "query_id": "q021",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "3fd55ca5fe4f1323eb0a83f77ffe2281fdc835d3f1f7a1719ccdb1b6deefb13c",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.399308200001542
+  },
+  {
+    "query_id": "q021",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "057abcf0260f85275b4b643ef1868b30121e94b17ceec6380567c0be88b98071",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4410265000005893
+  },
+  {
+    "query_id": "q021",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "8f09bb4d61bc37475133bd7349066a94adcbe0c8b6425af15640fb10b5789d2b",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.48659650000263355
+  },
+  {
+    "query_id": "q021",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "50503c95fe7db51c67c4caf9ba2ef79403d9214e2f2db562ae55cfaa9d6d13cf",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 12.315427699999418
+  },
+  {
+    "query_id": "q021",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "6bb01040eb50a2f2fba198e0c4f87d518a5e7b4384912fabf800061c43ce97b7",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.142505700001493
+  },
+  {
+    "query_id": "q021",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "6bb01040eb50a2f2fba198e0c4f87d518a5e7b4384912fabf800061c43ce97b7",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 7.142505700001493
+  },
+  {
+    "query_id": "q024",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "a4ee1ba1fc3ee15f307bc3289a1ecb56bc0e7cfcd80d698b5c74a4de1d3879a0",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 8.99860130000161
+  },
+  {
+    "query_id": "q024",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "3539f10869c5dbd5dfb6c53c17f9026b854702320b9e2b229b294fa9cbfea6f2",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.40861519999816664
+  },
+  {
+    "query_id": "q024",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "9d2502dbbd4618409191b1c81fa6bf24612624e46f9297016439ab29249ff2ca",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5020384999988892
+  },
+  {
+    "query_id": "q024",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "13533dab50654466082eb738233daba7c870c4ac0419224d7f76cbeedc5b00e4",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.591072399998666
+  },
+  {
+    "query_id": "q024",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "93df7a0754ea7a7a4c6f8e74c706066f41c2efe5fb5d677ee4161d0019a9dd55",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 9.837655499999528
+  },
+  {
+    "query_id": "q024",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "93df7a0754ea7a7a4c6f8e74c706066f41c2efe5fb5d677ee4161d0019a9dd55",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 9.837655499999528
+  },
+  {
+    "query_id": "q025",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "1fce759f0397534596d6d5bbf8318f395a7bc042a83a0735ef3fe6605892f8f8",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 8.245938000000024
+  },
+  {
+    "query_id": "q025",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "476a0eb945a3d83e7e5bfbcba37e4a02d94b0febc40f2f8574fc4d67aeedc277",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.8414258000011614
+  },
+  {
+    "query_id": "q025",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "9d53a467d778a8f7f9b8f336384096ea0ab3d22d3b560264490fed2e33d15a9e",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.583743900002446
+  },
+  {
+    "query_id": "q025",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "253385ae6adad239b35565471a0017a6dd3d2d656467ab9a9c4b6110c6cf5ec3",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.551719799997954
+  },
+  {
+    "query_id": "q025",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "61bcd80a12057afe51f9fe9d523a533cd79e9659b53bd53e8dbeba00a0d35633",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 18.350758999997197
+  },
+  {
+    "query_id": "q025",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "a9886c7c407fb761577e53bd2f262dbe5786a3378912e1f9d6f505a1f270acd0",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.910894500000722
+  },
+  {
+    "query_id": "q029",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "49bf6807d4fe14e2cdf6e255fba363404bec04bae4ba3934fcacfe1291e2b228",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.3543562999984715
+  },
+  {
+    "query_id": "q029",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "a597327545cca3b8ea90951fef63ff3e0ab2f4a5e05bbb71a76d4137385ebf9d",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.44618980000086594
+  },
+  {
+    "query_id": "q029",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "c25a4c0cec41d0847b2d9d8b2dd909b367287805aac52b99902a43a0b150aabf",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5544025000017427
+  },
+  {
+    "query_id": "q029",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "d362b4b76db34c19c5b3a7c0200a50460b58fc5992f464b63aa63f7150c631e3",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.272019399999408
+  },
+  {
+    "query_id": "q029",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "9f79f3c11ab5735c0e7a06acbae93c994283a093d174696b5ab41ec405f59cff",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 12.712262900000496
+  },
+  {
+    "query_id": "q029",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "d8c80a599dbda30d2b577866fd52b8e1d516bcda52dc0b614fb8a9b140ab8ff0",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 13.4917921999986
+  },
+  {
+    "query_id": "q033",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "0d4682c3459cd1de99f16eccb762e6925ec8bb290066abb723c3488e1e2cd800",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 7.389396800001123
+  },
+  {
+    "query_id": "q033",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "e0a9a1309201dbeb380623a01656e670ee6658aac54b2d0d2fe6dbf69b0d204c",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.7631928999981028
+  },
+  {
+    "query_id": "q033",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "68d5a8143a26024e82461057d027ee8f360ed0e21e191539364b6415ef6a784b",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.49827490000097896
+  },
+  {
+    "query_id": "q033",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "70515cecb6c79c27e9414a73dcdea299334647a4790212cc1d22a30ac4bd734c",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.968085000000428
+  },
+  {
+    "query_id": "q033",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "d84d92988550ceaf2c322fcc30141192ff446af0d19d67c3cfd6cb2a314eb878",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 5.900238800000807
+  },
+  {
+    "query_id": "q033",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "cf5002da112ff7c63c2b65c7dbc2fa390eb2fc9b1a5aa93f23534ecf9ab1ad66",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.967073900003015
+  },
+  {
+    "query_id": "q038",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "42a2a3ee20f9e2781ce438b42c5affa5ed7bd25398e0625ca2d8950dee1dafb7",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.058126899999479
+  },
+  {
+    "query_id": "q038",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "5ae1cafb6b6aff069dab6a21135285ed95e367c0fcc6cb1de637fd6b57d158e4",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.442136899997422
+  },
+  {
+    "query_id": "q038",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "deadc666376ed4b8c8d1d34a08db84fe35b8cfc331bb80ccc924983da10aeec9",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5025230999999621
+  },
+  {
+    "query_id": "q038",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "91667d0bce9d0790e34a91c85bfe48df7299bd0a3216393e5b1a7cc5ae31701f",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 10.456549400001677
+  },
+  {
+    "query_id": "q038",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "ed000f9d25d7d34a9383f8e6d5035432b3be119a941d73644e6514d9f885bd76",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.867613200003689
+  },
+  {
+    "query_id": "q038",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "899622c0aefbec75fd98d886dfa35aa76038e77b9749fec880dd1f57ee112da1",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 5.775401899998542
+  },
+  {
+    "query_id": "q042",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "7e9a7081004ebdd100f87aacdd28be3b6e1ae3dcd3ce4d0c905cab44145b167d",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 6.880175300000701
+  },
+  {
+    "query_id": "q042",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "e4d982b2480a624a2c1581e63900f81497b1dcb8c362d0ecdfbf12383f5abb0d",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.43349270000180695
+  },
+  {
+    "query_id": "q042",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "cce9cee7fd125c4d6470d13f5e668b1944312aa1fd39a91901c304605308fce1",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.49244529999850783
+  },
+  {
+    "query_id": "q042",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "a4abe223fc417ce855b0761c5e5e29c98a827db14479f63f4fcb78549acffbfd",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.10295309999492
+  },
+  {
+    "query_id": "q042",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "85cd78f11a2ab138c73fcd4971c925f05361f174ffdb7663eb3fb332938848cf",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.693803299996944
+  },
+  {
+    "query_id": "q042",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "85cd78f11a2ab138c73fcd4971c925f05361f174ffdb7663eb3fb332938848cf",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 6.693803299996944
+  },
+  {
+    "query_id": "q043",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "617113dc30c63760560b14da77e537a33d7a94d5269de5d504c8932199a9bdbd",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.3777429000001575
+  },
+  {
+    "query_id": "q043",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "c62226361c0f9c4737196263a019cddd484b6d3ddbf0ffd46fdf5e6287184359",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5839750999948592
+  },
+  {
+    "query_id": "q043",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "2adc2f6343803e305f4863dec574b1e8a1a7cb4cd7e75b8cd1e5ffec5a6cd8bb",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.48254499999893596
+  },
+  {
+    "query_id": "q043",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "a59665ebb6faedc9d451135b0b619c94b9095fb97831792d0b8471ae2cba7727",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.033833399997093
+  },
+  {
+    "query_id": "q043",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "722459e5f087e7a956774feb22a79f0aeefe65db3920cf881ee8173943d31faa",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 5.770014199995785
+  },
+  {
+    "query_id": "q043",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "722459e5f087e7a956774feb22a79f0aeefe65db3920cf881ee8173943d31faa",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 5.770014199995785
+  },
+  {
+    "query_id": "q047",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "13c363b931ec6851f660cc73fab2aaad4840fcd9b9abdb42e4afa9f64c7388fd",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 7.3753899000003
+  },
+  {
+    "query_id": "q047",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "2383b479dbab9886348683247c192abaf7fc1ec4a0e83be1c67c6a5c9cac1312",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.42639819999749307
+  },
+  {
+    "query_id": "q047",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "e2605a2d3c851455610cd85acc17cc9667c70b14e464e4fdedbdcffe343b0ed4",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5075992000056431
+  },
+  {
+    "query_id": "q047",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "c407c864c8b80c6e219dde61b8606437620d43252f72a8487a62d770f9b4a1a7",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 17.293609699998342
+  },
+  {
+    "query_id": "q047",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "7c1e5b95cd1912362fb012ba7d0fd90d8bc8a35479052ea60faa050e3b91fe6a",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.99647360000381
+  },
+  {
+    "query_id": "q047",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "7c1e5b95cd1912362fb012ba7d0fd90d8bc8a35479052ea60faa050e3b91fe6a",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 7.99647360000381
+  },
+  {
+    "query_id": "q050",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "a394849d2b91016911be076a14807af5e8fd926c4b351f059c8d37ead8a656e2",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 7.824879200001305
+  },
+  {
+    "query_id": "q050",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "1cebf6e060d29e2f0f578c159a842759f3f165bd5601be7e53c6f188ff14a299",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4432613999961177
+  },
+  {
+    "query_id": "q050",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "4b02ab7b2f09fdb4e4a5c7d487b2f95e77b730b1b906d57143f2348f9758060c",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4978259000054095
+  },
+  {
+    "query_id": "q050",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "d1a465663ad718d523b0ee2f6b3e9c3c094f1150ea06dad68d75aae9d31c6142",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.5955151000016485
+  },
+  {
+    "query_id": "q050",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "2797517e63c8d7fffa9e9840644d8f4603a8f97946189d54196c15e48236a820",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.69610890000331
+  },
+  {
+    "query_id": "q050",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "2797517e63c8d7fffa9e9840644d8f4603a8f97946189d54196c15e48236a820",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 7.69610890000331
+  },
+  {
+    "query_id": "q054",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "23473c957cd1925ae664f28d3bbe7bfdd9291ece1846767e180c6c1cc49963da",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.234469999999419
+  },
+  {
+    "query_id": "q054",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "c4a5779e38730beae32ee48881068a90f6ae89ab4c90ac5e74e5d9e5eac3c79e",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4923798999952851
+  },
+  {
+    "query_id": "q054",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "c9d50d47ee6d256560cbbd32b126bade1a0ee2f01a2ee0da75b5919e356ce67b",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5587166999976034
+  },
+  {
+    "query_id": "q054",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "168d436cd6c9d4ad23740c4c66a96a36705c526bece09b829c3b24c8c2d68d27",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.096091999999771
+  },
+  {
+    "query_id": "q054",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "dc733bb3ac675261ae5533d377b1caa4441d32e5faf29527fb021a1df722c544",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 11.9683600999997
+  },
+  {
+    "query_id": "q054",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "dc733bb3ac675261ae5533d377b1caa4441d32e5faf29527fb021a1df722c544",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 11.9683600999997
+  },
+  {
+    "query_id": "q055",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "4ce1568a31d0b6b1c0c296fe2ac8685665180304b7afc7b450707f0a8cd53d3b",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.357774500000232
+  },
+  {
+    "query_id": "q055",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "054d2bbcef86212787aab8e32b1d1b15bcb28279b97c73d9152fce60c9886003",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.5858158000046387
+  },
+  {
+    "query_id": "q055",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "f193780d87b20cb8a678510a3bb583301d0291be8942033f9690d2cf68ecd684",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.48948250000103144
+  },
+  {
+    "query_id": "q055",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "4a90f570812af19b80d1e233ee73e534ad328cfd6cbd34b1fe6b6764d23cedf5",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.134309799999755
+  },
+  {
+    "query_id": "q055",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "c3b1e3ed4e6fb5ce998f3b4cbcfcd2b6356ac11ffccad9e5357812ef2631d61d",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.64974830000574
+  },
+  {
+    "query_id": "q055",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "c3b1e3ed4e6fb5ce998f3b4cbcfcd2b6356ac11ffccad9e5357812ef2631d61d",
+    "hit": true,
+    "origin": "signature_cache",
+    "original_call_seconds": 7.64974830000574
+  },
+  {
+    "query_id": "q057",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "dc1590ffd7c93f60d93ee4e7408ae8dbecc40ef4c98f2158c5aadb8098d184ad",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 7.199984800001403
+  },
+  {
+    "query_id": "q057",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "4ad9c300d97bfc6a265c7003dedafd64e0a233bcdff737a4728aa2e50826a9cb",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4991999999983818
+  },
+  {
+    "query_id": "q057",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "c9408d225a0c03b9c18303d4817014adfbb6e70499326a74947869fbbfde2d7a",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.48830010000529
+  },
+  {
+    "query_id": "q057",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "6e9cdad082630b7734b09a2bf8d78ef9818a880634f94a743e8b9142968526a9",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.955520099996647
+  },
+  {
+    "query_id": "q057",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "04875ae8cf54f1c76033504593055529ec40f29c18d1472ff5d3de52f296a18e",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.638510000004317
+  },
+  {
+    "query_id": "q057",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "ef1a04056ce1d3152531a1c3abcfd950a82d0d833aebb1013c9013c997d7d80c",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 7.861255700001493
+  },
+  {
+    "query_id": "q060",
+    "variant": "shared",
+    "phase": "embedding",
+    "signature": "dd3e6427be503ca37905449a2e99a3242668f54b180eef0fbfa4cd8fac9aa834",
+    "hit": true,
+    "origin": "validated_old_embedding",
+    "original_call_seconds": 5.624008500002674
+  },
+  {
+    "query_id": "q060",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "bd02ff20dc43d912f49bbff08733d05a5cb83a2f3efaa08e233e61cb84e49ba7",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.43284459999995306
+  },
+  {
+    "query_id": "q060",
+    "variant": "shared",
+    "phase": "qdrant_search",
+    "signature": "e1131cdbd0b56a095a708f6aefc188b17ca2d79dfa9c2f5b18f53d7b64e0b27d",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 0.4938968999995268
+  },
+  {
+    "query_id": "q060",
+    "variant": "M1",
+    "phase": "rerank",
+    "signature": "0ceba157daca34cd2a9b7bcaa7697f3e12e3a97ddfd9dea87b486f8b114d9dcc",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 20.496455000000424
+  },
+  {
+    "query_id": "q060",
+    "variant": "M2",
+    "phase": "rerank",
+    "signature": "8732d57e47aba546aaec1c7a13aadb022821e4daa211c725f02d65bcd3818661",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 8.243940599997586
+  },
+  {
+    "query_id": "q060",
+    "variant": "M3",
+    "phase": "rerank",
+    "signature": "06a9d4485186291068855d9c95026a227808a9088f95bcd594c39398cd838c2e",
+    "hit": false,
+    "origin": "real_api",
+    "original_call_seconds": 6.165386599997873
+  }
+]

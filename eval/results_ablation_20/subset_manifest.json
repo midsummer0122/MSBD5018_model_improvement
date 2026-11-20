@@ -1,0 +1,36 @@
+{
+  "algorithm": "evenly spaced round(i*(N-1)/(n-1)), original per-intent order",
+  "allocation": {
+    "法律咨询": 8,
+    "法条解释": 5,
+    "程序咨询": 4,
+    "案例检索": 3
+  },
+  "query_ids": [
+    "q001",
+    "q004",
+    "q008",
+    "q011",
+    "q014",
+    "q017",
+    "q021",
+    "q024",
+    "q025",
+    "q029",
+    "q033",
+    "q038",
+    "q042",
+    "q043",
+    "q047",
+    "q050",
+    "q054",
+    "q055",
+    "q057",
+    "q060"
+  ],
+  "queries_sha256": "6be58f28c85529a2306abadc361535560dc9e0080bc40b6ef2bda3025b382b83",
+  "oracle_intent": true,
+  "with_case_gt": 9,
+  "pure_statute": 11,
+  "source_quote_checks": 34
+}

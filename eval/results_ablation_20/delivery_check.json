@@ -1,0 +1,9 @@
+{
+  "protected_configuration_and_old_reports_unchanged": true,
+  "qdrant_counts_and_vector_config_unchanged": true,
+  "report_local_links_checked": 31,
+  "sensitive_value_scan_files": 136,
+  "sensitive_values_found": false,
+  "markdown_fences_balanced": true,
+  "all_80_result_metrics_reconciled": true
+}

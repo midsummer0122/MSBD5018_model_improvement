@@ -1,0 +1,39 @@
+# ==== 密钥（绝对不能提交）====
+api_key/api_config.yaml
+api_key/qdrant.txt
+
+# ==== Python ====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# ==== IDE ====
+.idea/
+.vscode/
+
+# ==== 运行时产物 ====
+data/
+eval/report.json
+eval/report.md
+*.log
+
+# ==== 主目录 md 不提交（要提交的放 docs/），保留 README ====
+/*.md
+!/README.md
+
+# ==== knowledge_data：只提交 embedding_csv / json / 中央法规（不含备份）====
+knowledge_data/*.zip
+knowledge_data/*.xlsx
+knowledge_data/README.md
+knowledge_data/劳动案例/
+knowledge_data/文档切分参考/
+knowledge_data/中央法规/备份/
+
+# ==== 系统文件 / macOS 解压垃圾 ====
+.DS_Store
+Thumbs.db
+__MACOSX/
+._*

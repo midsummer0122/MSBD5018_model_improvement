@@ -1,0 +1,253 @@
+[
+  {
+    "query": "我在上海一家私营公司工作两年，有劳动合同和银行工资流水，公司拖欠我三个月工资共18000元，应该怎样维权？",
+    "expected": "法律咨询",
+    "actual": "法律咨询",
+    "matches_expected": true,
+    "raw_llm_query_type": "legal_consultation",
+    "raw_llm_intents": [
+      "法律咨询"
+    ],
+    "understanding": {
+      "intents": [
+        "法律咨询"
+      ],
+      "entities": {
+        "subjects": [
+          "私营公司",
+          "劳动者"
+        ],
+        "legal_relations": [
+          "劳动关系"
+        ],
+        "amounts": [
+          "三个月工资",
+          "18000元"
+        ],
+        "jurisdiction": [
+          "上海"
+        ],
+        "causes": [
+          "拖欠劳动报酬"
+        ],
+        "statutes": [
+          "劳动合同法"
+        ]
+      },
+      "missing_info": [
+        "您目前是否仍在职？",
+        "是否已向劳动监察部门投诉或申请劳动仲裁？"
+      ],
+      "need_followup": true,
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "query_type": "legal_consultation",
+      "user_goal": "了解在上海被公司拖欠工资的维权途径",
+      "topic_relation": "same_topic",
+      "rewritten_query": "上海 私营公司 拖欠工资 三个月 18000元 维权 劳动仲裁 劳动监察",
+      "satisfied_info": [
+        "当事人身份：劳动者",
+        "法律关系：劳动关系",
+        "工作地点：上海",
+        "用人单位类型：私营公司",
+        "工作年限：两年",
+        "证据：有书面劳动合同",
+        "证据：有银行工资流水",
+        "拖欠金额：三个月工资共18000元"
+      ]
+    },
+    "plan": {
+      "query": "上海 私营公司 拖欠工资 三个月 18000元 维权 劳动仲裁 劳动监察",
+      "selected_skills": [
+        "legal_consultation"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 12,
+        "case": 8
+      },
+      "evidence_quotas": {
+        "statute": 3,
+        "case": 2
+      }
+    }
+  },
+  {
+    "query": "请解释劳动合同法第四十七条中经济补偿的计算规则，不涉及具体纠纷。",
+    "expected": "法条解释",
+    "actual": "法条解释",
+    "matches_expected": true,
+    "raw_llm_query_type": "knowledge_question",
+    "raw_llm_intents": [
+      "法条解释"
+    ],
+    "understanding": {
+      "intents": [
+        "法条解释"
+      ],
+      "entities": {
+        "statutes": [
+          "劳动合同法"
+        ],
+        "amounts": [
+          "经济补偿"
+        ]
+      },
+      "missing_info": [],
+      "need_followup": false,
+      "retrieval_targets": [
+        "statute_db"
+      ],
+      "query_type": "knowledge_question",
+      "user_goal": "了解劳动合同法第四十七条经济补偿的计算规则",
+      "topic_relation": "new_topic",
+      "rewritten_query": "劳动合同法 第四十七条 经济补偿 计算规则",
+      "satisfied_info": []
+    },
+    "plan": {
+      "query": "劳动合同法 第四十七条 经济补偿 计算规则",
+      "selected_skills": [
+        "statute_explanation"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 16,
+        "case": 4
+      },
+      "evidence_quotas": {
+        "statute": 4,
+        "case": 1
+      }
+    }
+  },
+  {
+    "query": "劳动争议仲裁申请的时效一般多久？中断和中止分别怎么处理？",
+    "expected": "程序咨询",
+    "actual": "程序咨询",
+    "matches_expected": true,
+    "raw_llm_query_type": "procedure_consultation",
+    "raw_llm_intents": [
+      "程序咨询",
+      "法条解释"
+    ],
+    "understanding": {
+      "intents": [
+        "程序咨询",
+        "法条解释"
+      ],
+      "entities": {
+        "legal_relations": [
+          "劳动关系"
+        ],
+        "deadlines": [
+          "仲裁时效"
+        ]
+      },
+      "missing_info": [],
+      "need_followup": false,
+      "retrieval_targets": [
+        "statute_db"
+      ],
+      "query_type": "procedure_consultation",
+      "user_goal": "了解劳动争议仲裁时效及中断中止的处理规则",
+      "topic_relation": "new_topic",
+      "rewritten_query": "劳动争议 仲裁时效 中断 中止",
+      "satisfied_info": []
+    },
+    "plan": {
+      "query": "劳动争议 仲裁时效 中断 中止",
+      "selected_skills": [
+        "procedure_consultation",
+        "statute_explanation"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 16,
+        "case": 4
+      },
+      "evidence_quotas": {
+        "statute": 4,
+        "case": 1
+      }
+    }
+  },
+  {
+    "query": "请查找有关追索劳动报酬的类似案例，说明法院的裁判思路。",
+    "expected": "案例检索",
+    "actual": "案例检索",
+    "matches_expected": true,
+    "raw_llm_query_type": "knowledge_question",
+    "raw_llm_intents": [
+      "案例检索"
+    ],
+    "understanding": {
+      "intents": [
+        "案例检索"
+      ],
+      "entities": {
+        "legal_relations": [
+          "劳动关系"
+        ],
+        "causes": [
+          "追索劳动报酬"
+        ]
+      },
+      "missing_info": [],
+      "need_followup": false,
+      "retrieval_targets": [
+        "case_db",
+        "statute_db"
+      ],
+      "query_type": "knowledge_question",
+      "user_goal": "查找追索劳动报酬的类似案例并了解法院裁判思路",
+      "topic_relation": "new_topic",
+      "rewritten_query": "追索劳动报酬 案例 裁判思路",
+      "satisfied_info": []
+    },
+    "plan": {
+      "query": "追索劳动报酬 案例 裁判思路",
+      "selected_skills": [
+        "case_search"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 8,
+        "case": 12
+      },
+      "evidence_quotas": {
+        "statute": 2,
+        "case": 3
+      }
+    }
+  }
+]

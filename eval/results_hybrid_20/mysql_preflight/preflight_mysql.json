@@ -1,0 +1,34 @@
+{
+  "server": {
+    "version": "8.4.13",
+    "port": 3306,
+    "account": "law_rag_app@127.0.0.1"
+  },
+  "counts": {
+    "statute": {
+      "documents": 128,
+      "parents": 511
+    },
+    "case": {
+      "documents": 174,
+      "parents": 349
+    }
+  },
+  "source_type_basis": "JSON directory, never an ID prefix heuristic",
+  "expected_parents": 860,
+  "mysql_parents": 860,
+  "all_expected_text_title_path_doc_links_match": true,
+  "runtime_json_fallback_calls": 0,
+  "direct_read_seconds": 0.016271999997115927,
+  "runtime_mysql_seconds": {
+    "statute": 0.017996800001128577,
+    "case": 0.035758500001975335
+  },
+  "protected_hashes": {
+    "G:\\MSBD5018_agentic-rag-law-main\\api_key\\api_config.yaml": "ec0348419f3d8b738b7cee3485f156107ac20a4216b298246ab088c1a311b50f",
+    "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\案例库构建与双库接入优化记录.md": "4a5c3a27c8856c269f3d8e904705d4bd5df0c0eaf5bd1e0745285b4b128aadae",
+    "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report_windtunnel_ab.md": "b94c972d890751d9b5fbc5b955e0e9f08a65b3c585a15b3db31f3ba5537d1e0a"
+  },
+  "no_ddl_executed": true,
+  "new_missing_parent_inserts": 0
+}

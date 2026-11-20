@@ -1,0 +1,79 @@
+[
+  {
+    "query_id": "q001",
+    "phase": "diagnosis",
+    "signature": "9b99b55654c5e5db9ef416146837c24d280fd5539106858da0575ee0761073e4",
+    "ok": true,
+    "seconds": 7.321495700001833
+  },
+  {
+    "query_id": "q004",
+    "phase": "diagnosis",
+    "signature": "0bd84d280495a7e8c32a9eb84be63e82e9ea096979b30ba48ccc0210406f9269",
+    "ok": true,
+    "seconds": 5.701922200001718
+  },
+  {
+    "query_id": "q008",
+    "phase": "diagnosis",
+    "signature": "ee9e581deab6f5aec01eddc9732c61b1e34450fe5d9d2b63d85c3d86d30807f4",
+    "ok": true,
+    "seconds": 7.712149600003613
+  },
+  {
+    "query_id": "q011",
+    "phase": "diagnosis",
+    "signature": "d69ecc0d4e52e95e7a012d464b8d648458948473443d4872032f2e55e2079725",
+    "ok": true,
+    "seconds": 5.236033799999859
+  },
+  {
+    "query_id": "q014",
+    "phase": "diagnosis",
+    "signature": "bed31a5b79d43a71b906a513e08e0168bc0d6933f29a5a65e7dfe6b68a778e6a",
+    "ok": true,
+    "seconds": 7.693120600000839
+  },
+  {
+    "query_id": "q017",
+    "phase": "diagnosis",
+    "signature": "f4934980e0f7377824aa93d5802414527458d6459ae1224a9ce568a25d35c51e",
+    "ok": true,
+    "seconds": 5.464242500005639
+  },
+  {
+    "query_id": "q021",
+    "phase": "diagnosis",
+    "signature": "cacd1024a9d034613372e4c7711d52ee81d19f3cebd968b3f5df5c60520a0fba",
+    "ok": true,
+    "seconds": 7.746936600000481
+  },
+  {
+    "query_id": "q024",
+    "phase": "diagnosis",
+    "signature": "500b43b8d3c7230ed65b387458526360600afb6bcd2dbb59823eed3fe5ce9516",
+    "ok": true,
+    "seconds": 6.024711800004297
+  },
+  {
+    "query_id": "q024",
+    "phase": "embedding",
+    "signature": "09afc00477646cb7dc85f0e2b431be98b38aabfdbfa4d12c4e9e0b486810d3aa",
+    "ok": true,
+    "seconds": 8.50016890000552
+  },
+  {
+    "query_id": "q024",
+    "phase": "qdrant_search",
+    "signature": "edc5d180a5da480c151dfea430623956194f4d29526ae98b6be7279696a5a8bc",
+    "ok": true,
+    "seconds": 0.7524305999977514
+  },
+  {
+    "query_id": "q024",
+    "phase": "unified_rerank",
+    "signature": "d0a098490a5cbb68d8668410626c7ba88486f32c5b04685513ca57292b5f22ae",
+    "ok": true,
+    "seconds": 6.370633200000157
+  }
+]

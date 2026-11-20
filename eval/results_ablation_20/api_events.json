@@ -1,0 +1,755 @@
+[
+  {
+    "phase": "query_understanding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 8.36278350000066
+  },
+  {
+    "phase": "query_understanding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.682929499998863
+  },
+  {
+    "phase": "query_understanding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.612412200000108
+  },
+  {
+    "phase": "query_understanding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.744591099999525
+  },
+  {
+    "query_id": "q001",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 8.196420399999624
+  },
+  {
+    "query_id": "q001",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.419995199998084
+  },
+  {
+    "query_id": "q001",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4999738000005891
+  },
+  {
+    "query_id": "q001",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 10.399467799998092
+  },
+  {
+    "query_id": "q001",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.527266199998849
+  },
+  {
+    "query_id": "q001",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.467404600000009
+  },
+  {
+    "query_id": "q025",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 8.245110700001533
+  },
+  {
+    "query_id": "q025",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 1.0387405000001309
+  },
+  {
+    "query_id": "q025",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.6260791999993671
+  },
+  {
+    "query_id": "q025",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.219064000000799
+  },
+  {
+    "query_id": "q025",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 8.668755599999713
+  },
+  {
+    "query_id": "q025",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": false,
+    "error": "RuntimeError",
+    "seconds": 2049.7275292999984
+  },
+  {
+    "query_id": "q025",
+    "phase": "rerank",
+    "attempt": 2,
+    "ok": true,
+    "seconds": 7.939897899999778
+  },
+  {
+    "query_id": "q055",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.356704900001205
+  },
+  {
+    "query_id": "q055",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 1.114426000000094
+  },
+  {
+    "query_id": "q055",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.49575220000042464
+  },
+  {
+    "query_id": "q055",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.680411599998479
+  },
+  {
+    "query_id": "q055",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.444404800000484
+  },
+  {
+    "query_id": "q055",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.057778300000791
+  },
+  {
+    "query_id": "q004",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.4699051000025065
+  },
+  {
+    "query_id": "q004",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4352207999982056
+  },
+  {
+    "query_id": "q004",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.5826792999978352
+  },
+  {
+    "query_id": "q004",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.984700300003169
+  },
+  {
+    "query_id": "q004",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.832588600002055
+  },
+  {
+    "query_id": "q008",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.446877899998071
+  },
+  {
+    "query_id": "q008",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.41521859999920707
+  },
+  {
+    "query_id": "q008",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.49030520000087563
+  },
+  {
+    "query_id": "q008",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.8871313000017835
+  },
+  {
+    "query_id": "q008",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.874903899999481
+  },
+  {
+    "query_id": "q011",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.473644499998045
+  },
+  {
+    "query_id": "q011",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.7324603999986721
+  },
+  {
+    "query_id": "q011",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4682519999987562
+  },
+  {
+    "query_id": "q011",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.278796999999031
+  },
+  {
+    "query_id": "q011",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.633942300002673
+  },
+  {
+    "query_id": "q014",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.840625299999374
+  },
+  {
+    "query_id": "q014",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.43277519999901415
+  },
+  {
+    "query_id": "q014",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.49036789999809116
+  },
+  {
+    "query_id": "q014",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.14564640000026
+  },
+  {
+    "query_id": "q014",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.499544499998592
+  },
+  {
+    "query_id": "q017",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.8739194000008865
+  },
+  {
+    "query_id": "q017",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4457793000001402
+  },
+  {
+    "query_id": "q017",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4874079000001075
+  },
+  {
+    "query_id": "q017",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.546613799997431
+  },
+  {
+    "query_id": "q017",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.49336680000124
+  },
+  {
+    "query_id": "q021",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.397569799999474
+  },
+  {
+    "query_id": "q021",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.720533499999874
+  },
+  {
+    "query_id": "q021",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.47058370000013383
+  },
+  {
+    "query_id": "q021",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 8.02638559999832
+  },
+  {
+    "query_id": "q021",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.538850299999467
+  },
+  {
+    "query_id": "q024",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 8.996612599999935
+  },
+  {
+    "query_id": "q024",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4263727999968978
+  },
+  {
+    "query_id": "q024",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.48023340000145254
+  },
+  {
+    "query_id": "q024",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.584968899998785
+  },
+  {
+    "query_id": "q024",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.828701999998884
+  },
+  {
+    "query_id": "q029",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.35280160000184
+  },
+  {
+    "query_id": "q029",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.47895790000256966
+  },
+  {
+    "query_id": "q029",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.5831355999980588
+  },
+  {
+    "query_id": "q029",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.289553800001158
+  },
+  {
+    "query_id": "q029",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.4780691000014485
+  },
+  {
+    "query_id": "q033",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.387274600001547
+  },
+  {
+    "query_id": "q033",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.506190100000822
+  },
+  {
+    "query_id": "q033",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.47373940000034054
+  },
+  {
+    "query_id": "q033",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.169750799999747
+  },
+  {
+    "query_id": "q033",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.436023899997963
+  },
+  {
+    "query_id": "q038",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.057013900001039
+  },
+  {
+    "query_id": "q038",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.43559820000155014
+  },
+  {
+    "query_id": "q038",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.49379310000222176
+  },
+  {
+    "query_id": "q038",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.811361399999441
+  },
+  {
+    "query_id": "q038",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.675977399998374
+  },
+  {
+    "query_id": "q042",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 6.878985100000136
+  },
+  {
+    "query_id": "q042",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4169227000020328
+  },
+  {
+    "query_id": "q042",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4757519999984652
+  },
+  {
+    "query_id": "q042",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.28167989999929
+  },
+  {
+    "query_id": "q042",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.8008153999981005
+  },
+  {
+    "query_id": "q043",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.37589079999816
+  },
+  {
+    "query_id": "q043",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.5332966999994824
+  },
+  {
+    "query_id": "q043",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.47231619999729446
+  },
+  {
+    "query_id": "q043",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.74347150000176
+  },
+  {
+    "query_id": "q043",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.946418199997424
+  },
+  {
+    "query_id": "q047",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.373386399998708
+  },
+  {
+    "query_id": "q047",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.677250600001571
+  },
+  {
+    "query_id": "q047",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4873121999989962
+  },
+  {
+    "query_id": "q047",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.4180062000014
+  },
+  {
+    "query_id": "q047",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.946811199999502
+  },
+  {
+    "query_id": "q050",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.823281999997562
+  },
+  {
+    "query_id": "q050",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.5456334999980754
+  },
+  {
+    "query_id": "q050",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.5393679000007978
+  },
+  {
+    "query_id": "q050",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.441067399999156
+  },
+  {
+    "query_id": "q050",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.853792400001112
+  },
+  {
+    "query_id": "q054",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.2331419000001915
+  },
+  {
+    "query_id": "q054",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.5218426999999792
+  },
+  {
+    "query_id": "q054",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.4730219000011857
+  },
+  {
+    "query_id": "q054",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 8.400792299999011
+  },
+  {
+    "query_id": "q054",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.746919199998956
+  },
+  {
+    "query_id": "q057",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.197673399998166
+  },
+  {
+    "query_id": "q057",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.8636622999983956
+  },
+  {
+    "query_id": "q057",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.49904309999692487
+  },
+  {
+    "query_id": "q057",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.1301755999993475
+  },
+  {
+    "query_id": "q057",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.452073500000552
+  },
+  {
+    "query_id": "q060",
+    "phase": "embedding",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.6227287000001525
+  },
+  {
+    "query_id": "q060",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.47027109999908134
+  },
+  {
+    "query_id": "q060",
+    "phase": "qdrant_search",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 0.5482620000002498
+  },
+  {
+    "query_id": "q060",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 7.271191399999225
+  },
+  {
+    "query_id": "q060",
+    "phase": "rerank",
+    "attempt": 1,
+    "ok": true,
+    "seconds": 5.445573199998762
+  }
+]

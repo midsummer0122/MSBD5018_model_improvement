@@ -1,0 +1,269 @@
+[
+  {
+    "sample": 1,
+    "understanding": {
+      "intents": [
+        "法条解释"
+      ],
+      "entities": {
+        "statutes": [
+          "劳动合同法"
+        ]
+      },
+      "missing_info": [],
+      "need_followup": false,
+      "retrieval_targets": [
+        "statute_db"
+      ],
+      "query_type": "knowledge_question",
+      "user_goal": "了解劳动合同法第四十七条关于经济补偿的规定",
+      "topic_relation": "same_topic",
+      "rewritten_query": "劳动合同法 第四十七条 经济补偿",
+      "satisfied_info": []
+    },
+    "plan": {
+      "query": "劳动合同法 第四十七条 经济补偿",
+      "selected_skills": [
+        "statute_explanation"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 16,
+        "case": 4
+      },
+      "evidence_quotas": {
+        "statute": 4,
+        "case": 1
+      },
+      "raw_query": "请解释劳动合同法第四十七条的经济补偿规则。",
+      "retrieval_mode": "hybrid"
+    },
+    "topic_continuation": null,
+    "exact_high_ids": {
+      "statute": [
+        "00002_c027"
+      ],
+      "case": []
+    },
+    "initial_candidates_without_dense_probe": 60,
+    "old_topic_identifier_leaked": false,
+    "answer_generation_calls": 0
+  },
+  {
+    "sample": 2,
+    "understanding": {
+      "intents": [
+        "法条解释"
+      ],
+      "entities": {
+        "statutes": [
+          "劳动争议司法解释（二）"
+        ]
+      },
+      "missing_info": [],
+      "need_followup": false,
+      "retrieval_targets": [
+        "statute_db"
+      ],
+      "query_type": "knowledge_question",
+      "user_goal": "了解劳动争议司法解释（二）第二十条的内容",
+      "topic_relation": "same_topic",
+      "rewritten_query": "劳动争议司法解释（二） 第二十条",
+      "satisfied_info": []
+    },
+    "plan": {
+      "query": "劳动争议司法解释（二） 第二十条",
+      "selected_skills": [
+        "statute_explanation"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 16,
+        "case": 4
+      },
+      "evidence_quotas": {
+        "statute": 4,
+        "case": 1
+      },
+      "raw_query": "劳动争议司法解释（二）第二十条讲什么？",
+      "retrieval_mode": "hybrid"
+    },
+    "topic_continuation": null,
+    "exact_high_ids": {
+      "statute": [
+        "20008_c021"
+      ],
+      "case": []
+    },
+    "initial_candidates_without_dense_probe": 60,
+    "old_topic_identifier_leaked": false,
+    "answer_generation_calls": 0
+  },
+  {
+    "sample": 3,
+    "understanding": {
+      "intents": [
+        "案例检索"
+      ],
+      "entities": {
+        "cases": [
+          "指导案例182号",
+          "彭宇翔案"
+        ]
+      },
+      "missing_info": [],
+      "need_followup": false,
+      "retrieval_targets": [
+        "case_db",
+        "statute_db"
+      ],
+      "query_type": "knowledge_question",
+      "user_goal": "检索指导案例182号彭宇翔案的裁判思路",
+      "topic_relation": "same_topic",
+      "rewritten_query": "指导案例182号 彭宇翔案 裁判思路 裁判要点",
+      "satisfied_info": [
+        "检索对象：指导案例182号彭宇翔案"
+      ]
+    },
+    "plan": {
+      "query": "指导案例182号 彭宇翔案 裁判思路 裁判要点",
+      "selected_skills": [
+        "case_search"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 8,
+        "case": 12
+      },
+      "evidence_quotas": {
+        "statute": 2,
+        "case": 3
+      },
+      "raw_query": "请检索指导案例182号彭宇翔案的裁判思路。",
+      "retrieval_mode": "hybrid"
+    },
+    "topic_continuation": null,
+    "exact_high_ids": {
+      "statute": [],
+      "case": [
+        "50065_c001",
+        "50065_c002",
+        "50065_c003",
+        "50065_c004",
+        "50065_c005",
+        "50065_c006",
+        "50065_c007",
+        "50065_c008",
+        "50065_c009",
+        "50065_c010",
+        "50065_c011",
+        "50065_c012",
+        "50065_c013",
+        "50065_c014",
+        "50065_c015",
+        "50065_c016",
+        "50065_c017",
+        "50065_c018",
+        "50065_c019",
+        "50065_c020",
+        "50065_c021",
+        "50065_c022",
+        "50065_c023",
+        "50065_c024",
+        "50071_c001",
+        "50071_c002",
+        "50071_c003",
+        "50071_c004",
+        "50071_c005",
+        "50071_c006",
+        "50071_c007"
+      ]
+    },
+    "initial_candidates_without_dense_probe": 60,
+    "old_topic_identifier_leaked": false,
+    "answer_generation_calls": 0
+  },
+  {
+    "sample": 4,
+    "understanding": {
+      "intents": [
+        "法条解释"
+      ],
+      "entities": {
+        "statutes": [
+          "劳动法"
+        ]
+      },
+      "missing_info": [],
+      "need_followup": false,
+      "retrieval_targets": [
+        "statute_db"
+      ],
+      "query_type": "knowledge_question",
+      "user_goal": "了解劳动法第四十四条关于加班工资的规定",
+      "topic_relation": "new_topic",
+      "rewritten_query": "劳动法 第四十四条 加班工资",
+      "satisfied_info": []
+    },
+    "plan": {
+      "query": "劳动法 第四十四条 加班工资",
+      "selected_skills": [
+        "statute_explanation"
+      ],
+      "retrieval_targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "filters": {},
+      "top_k": 30,
+      "final_k": 5,
+      "split_rerank": true,
+      "rerank_quotas": {
+        "statute": 16,
+        "case": 4
+      },
+      "evidence_quotas": {
+        "statute": 4,
+        "case": 1
+      },
+      "raw_query": "换个话题，请解释劳动法第四十四条的加班工资规则。",
+      "retrieval_mode": "hybrid"
+    },
+    "topic_continuation": {
+      "is_continuation": false,
+      "rewritten_query": "",
+      "retained_entities": {},
+      "retained_satisfied": []
+    },
+    "exact_high_ids": {
+      "statute": [
+        "00004_c017"
+      ],
+      "case": []
+    },
+    "initial_candidates_without_dense_probe": 60,
+    "old_topic_identifier_leaked": false,
+    "answer_generation_calls": 0
+  }
+]

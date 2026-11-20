@@ -1,0 +1,25 @@
+{
+  "complete": true,
+  "n_queries": 20,
+  "variants": [
+    "V1",
+    "V2",
+    "V3",
+    "V4"
+  ],
+  "elapsed_this_invocation_seconds": 2527.3618379000036,
+  "cache_hits_this_invocation": 0,
+  "api_success_counts": {
+    "query_understanding": 4,
+    "embedding": 20,
+    "qdrant_search": 40,
+    "rerank": 43
+  },
+  "api_failed_attempts": 1,
+  "top_n_equivalent": true,
+  "v3_v4_same_rerank_all_queries": true,
+  "config_and_historical_reports_unchanged": true,
+  "qdrant_read_only": true,
+  "mysql_json_fallback_calls": 0,
+  "timing_note": "Original real-call durations retained on cache replay; local replay is separately timed. Shared dual search/parent cost is charged to all variants for controlled comparison; V1 is not isolated single-library latency."
+}

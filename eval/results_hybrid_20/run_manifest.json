@@ -1,0 +1,26 @@
+{
+  "complete": true,
+  "queries": 20,
+  "variants": {
+    "M1": "dense",
+    "M2": "dense_bm25",
+    "M3": "hybrid"
+  },
+  "oracle_intent": true,
+  "mysql_json_fallback_calls": 0,
+  "downstream_v4_and_parent_score_frozen": true,
+  "qdrant_writes": 0,
+  "elapsed_seconds": 36.640347700005805,
+  "api_success_counts": {
+    "route_llm": 5,
+    "qdrant_search": 40,
+    "rerank": 48
+  },
+  "api_failed_attempts": 0,
+  "cache_lookups": 125,
+  "cache_hits": 123,
+  "unique_rerank_signatures": 44,
+  "old_rerank_reused": false,
+  "old_rerank_reason": "No old endpoint/instruct in the stored signature; conservative fresh M1 scoring",
+  "replay": false
+}

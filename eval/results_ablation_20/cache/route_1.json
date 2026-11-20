@@ -1,0 +1,5 @@
+{
+  "signature": "cbb401247ff996905a988b4c189965a2cc5b7464982a92dea62fd974a10f7cfd",
+  "value": "{\"intents\": [\"法律咨询\"], \"entities\": {\"subjects\": [\"私营公司\", \"劳动者\"], \"legal_relations\": [\"劳动关系\"], \"amounts\": [\"三个月工资\", \"18000元\"], \"jurisdiction\": [\"上海\"], \"causes\": [\"拖欠劳动报酬\"], \"statutes\": [\"劳动合同法\"]}, \"missing_info\": [\"您目前是否仍在职？\", \"是否已向劳动监察部门投诉或申请劳动仲裁？\"], \"need_followup\": true, \"retrieval_targets\": [\"statute_db\", \"case_db\"], \"query_type\": \"legal_consultation\", \"user_goal\": \"了解在上海被公司拖欠工资的维权途径\", \"topic_relation\": \"same_topic\", \"rewritten_query\": \"上海 私营公司 拖欠工资 三个月 18000元 维权 劳动仲裁 劳动监察\", \"satisfied_info\": [\"当事人身份：劳动者\", \"法律关系：劳动关系\", \"工作地点：上海\", \"用人单位类型：私营公司\", \"工作年限：两年\", \"证据：有书面劳动合同\", \"证据：有银行工资流水\", \"拖欠金额：三个月工资共18000元\"]}",
+  "seconds": 8.363603699999658
+}

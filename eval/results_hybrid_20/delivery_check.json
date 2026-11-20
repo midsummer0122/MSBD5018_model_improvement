@@ -1,0 +1,12 @@
+{
+  "complete_20x3": true,
+  "original_V4_and_current_M1_parent_rankings_identical": true,
+  "all_metrics_reconciled": true,
+  "downstream_source_policy_and_evidence_unchanged": true,
+  "private_config_and_old_reports_unchanged": true,
+  "qdrant_all_payloads_and_counts_before_after_equal": true,
+  "corpus_and_lexical_source_fingerprint_current": true,
+  "sensitive_value_scan_files": 152,
+  "sensitive_values_found": false,
+  "report_local_links_valid": 14
+}

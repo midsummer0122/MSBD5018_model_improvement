@@ -1,0 +1,258 @@
+{
+  "signature": {
+    "dataset_sha256": "524c2736138d79301773920f2586a9afd3a24c27554f528ef374579df22e5c60",
+    "catalog_sha256": "aedfc9fb79a1fd614f69a02d9a9068330ff8edf8d18a29bcd08706bb5fc89f08",
+    "embedding_model": "text-embedding-v4",
+    "dimension": 1024,
+    "rerank_model": "qwen3-rerank",
+    "collection_names": [
+      "law_statutes",
+      "law_cases"
+    ],
+    "endpoint_fingerprint": "b143e62014e6918546b8724f85376f8915bc20615b544429cb3920557f1aa0ae"
+  },
+  "versions": {
+    "A": {
+      "targets": [
+        "statute_db"
+      ],
+      "top_k": 30
+    },
+    "B": {
+      "targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "top_k": 30
+    },
+    "B_fair": {
+      "targets": [
+        "statute_db",
+        "case_db"
+      ],
+      "top_k": 15
+    }
+  },
+  "final_k": 5,
+  "rerank_keep": 20,
+  "started_at_utc": "2026-11-20T08:18:21.640661+00:00",
+  "remote_before": {
+    "statute_db": {
+      "collection": "law_statutes",
+      "count": 1384,
+      "vectors": {
+        "size": 1024,
+        "distance": "Cosine"
+      }
+    },
+    "case_db": {
+      "collection": "law_cases",
+      "count": 2334,
+      "vectors": {
+        "size": 1024,
+        "distance": "Cosine"
+      }
+    }
+  },
+  "protected_hashes": {
+    "G:\\MSBD5018_agentic-rag-law-main\\api_key\\api_config.yaml": "4491048a696d6d6c8e728a0f8dbc2030cededbc9719cf95d443984dda27b878a",
+    "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\案例库构建与双库接入优化记录.md": "4a5c3a27c8856c269f3d8e904705d4bd5df0c0eaf5bd1e0745285b4b128aadae"
+  },
+  "mock_count": 0,
+  "query_rewriting": false,
+  "query_order": "frozen q001..q060",
+  "version_order": "rotate A,B,B_fair by query index",
+  "timing_notes": "retrieval_seconds excludes shared embedding and initial local JSON index load; includes actual MySQL/local fallback attempts",
+  "data_leakage_control": "dataset and source quotation checks frozen before first remote search; no tuning on dev or test",
+  "status": "stopped_after_scope_reduction",
+  "shared_api_events": [
+    {
+      "query_id": "q001",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 7.620569000000614
+    },
+    {
+      "query_id": "q002",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 4.904919099999461
+    },
+    {
+      "query_id": "q003",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.152546899998924
+    },
+    {
+      "query_id": "q004",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.172393400000146
+    },
+    {
+      "query_id": "q005",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.607700000000477
+    },
+    {
+      "query_id": "q006",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 8.275900200000251
+    },
+    {
+      "query_id": "q007",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 6.405952500001149
+    },
+    {
+      "query_id": "q008",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.309109699999681
+    },
+    {
+      "query_id": "q009",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.896439599999212
+    },
+    {
+      "query_id": "q010",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 7.975473099999363
+    },
+    {
+      "query_id": "q011",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.067214099999546
+    },
+    {
+      "query_id": "q012",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.3121699999992416
+    },
+    {
+      "query_id": "q013",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.648299399999814
+    },
+    {
+      "query_id": "q014",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.042196300000796
+    },
+    {
+      "query_id": "q015",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 7.821570699999938
+    },
+    {
+      "query_id": "q016",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.968794099999286
+    },
+    {
+      "query_id": "q017",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.171903899999961
+    },
+    {
+      "query_id": "q018",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 4.994230199999947
+    },
+    {
+      "query_id": "q019",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.1425080000008165
+    },
+    {
+      "query_id": "q020",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.374027700001534
+    },
+    {
+      "query_id": "q021",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 5.361475099998643
+    },
+    {
+      "query_id": "q022",
+      "version": "shared",
+      "phase": "embedding",
+      "attempt": 1,
+      "ok": true,
+      "seconds": 4.823653299999933
+    }
+  ],
+  "completed": {
+    "A": 22,
+    "B": 21,
+    "B_fair": 21
+  },
+  "embedding_cache_entries": 22,
+  "stopped_at_utc": "2026-11-20T08:36:57.444419+00:00",
+  "reason": "User requested a quick exploratory check instead of the full 60-query benchmark",
+  "paired_queries_for_pilot": 21,
+  "protected_files_unchanged": true,
+  "full_60_query_benchmark_complete": false,
+  "postflight_remote_snapshot_performed": false
+}

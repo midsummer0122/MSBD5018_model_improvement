@@ -1,0 +1,15 @@
+{
+  "G:\\MSBD5018_agentic-rag-law-main\\api_key\\api_config.yaml": "ec0348419f3d8b738b7cee3485f156107ac20a4216b298246ab088c1a311b50f",
+  "G:\\MSBD5018_agentic-rag-law-main\\eval\\results_hybrid_20\\M1.json": "038459528a4ae564fb85161c82b238c71c15bd0145d658120ebea3589120391c",
+  "G:\\MSBD5018_agentic-rag-law-main\\eval\\queries_ablation_20.jsonl": "6be58f28c85529a2306abadc361535560dc9e0080bc40b6ef2bda3025b382b83",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\Agentic_RAG_Project_Review.md": "2f1333a8a234368d0cd75a7e8e362b29aa949aac5abc731247c4b0a5a9ff8832",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\MySQL本地配置与父块入库验证记录.md": "bd8123fce312f94f09919595fbaa80f38d3eacb5497dc9437c8eab97de3c7a46",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report1.md": "92e0c67a78e3a011ad66d3e318bdc0580989fc86f664d9033c745c24b00021a5",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report2.md": "967e2a7dabedd8f05bc99750c7c9378400300dd36f1d741ddf453bfc2c07924a",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report_ablation_4way.md": "189928bc602efe40321c63eee50f004aae427f0e36686cf48845fe3a94102896",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report_hybrid_m123.md": "9900475bc25ec8625d219e8923ed887cc8d8cf9543e3adbca5e0c7ffc120bae2",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report_windtunnel_ab.md": "b94c972d890751d9b5fbc5b955e0e9f08a65b3c585a15b3db31f3ba5537d1e0a",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\案例库构建与双库接入优化记录.md": "4a5c3a27c8856c269f3d8e904705d4bd5df0c0eaf5bd1e0745285b4b128aadae",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\混合检索前端展示说明.md": "85da690df1f959f6a8abb221e039583da1d72d2112b54a01b06ed19965e0ae46",
+  "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\混合检索（精确匹配 + BM25 + RRF）架构设计方案.md": "b561663284ef78ec177c3453152cf9c6753a500c5c79b3c918077146c726a4c3"
+}

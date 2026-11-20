@@ -1,0 +1,5 @@
+{
+  "signature": "3cb44ef6a21c742b412c36db76a02026437e495d69c7d1f8f73a95ec9482b41f",
+  "value": "{\"intents\": [\"程序咨询\", \"法条解释\"], \"entities\": {\"legal_relations\": [\"劳动关系\"], \"deadlines\": [\"仲裁时效\"]}, \"missing_info\": [], \"need_followup\": false, \"retrieval_targets\": [\"statute_db\"], \"query_type\": \"procedure_consultation\", \"user_goal\": \"了解劳动争议仲裁时效及中断中止的处理规则\", \"topic_relation\": \"new_topic\", \"rewritten_query\": \"劳动争议 仲裁时效 中断 中止\", \"satisfied_info\": []}",
+  "seconds": 7.613137000000279
+}

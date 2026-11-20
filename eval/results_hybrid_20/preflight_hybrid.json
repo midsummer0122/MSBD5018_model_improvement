@@ -1,0 +1,117 @@
+{
+  "corpus_fingerprint": "ef3c8a19bbd66a922644d2e8a724f0c8bb25113b65029c36b1577c4d6ad4e235",
+  "corpus_files": 302,
+  "qdrant": {
+    "statute": {
+      "collection": "law_statutes",
+      "points_count": 1384,
+      "vectors": {
+        "size": 1024,
+        "distance": "Cosine"
+      },
+      "all_payloads_compared": 1384,
+      "all_exact_match": true,
+      "payload_sha256": "14043ac4b7772aa26fe158303bccc8fa956cb9eb3392e8637f53cae156cce35a",
+      "sample_ids": [
+        "00001_c001",
+        "00005_c003",
+        "00009_c044",
+        "00015_c003",
+        "10005_c001",
+        "20006_c001",
+        "30004_c001",
+        "30015_c012",
+        "30022_c002",
+        "30030_c009"
+      ],
+      "state_signature": "af35a77d7200085f9dc35c9631836b6da33ab1e2d24adca45a0bbbeeb4f577ed"
+    },
+    "case": {
+      "collection": "law_cases",
+      "points_count": 2334,
+      "vectors": {
+        "size": 1024,
+        "distance": "Cosine"
+      },
+      "all_payloads_compared": 2334,
+      "all_exact_match": true,
+      "payload_sha256": "1855ba18d73ea530859a5cdd0b07a1b2f6fbab7fe762893801af72c814a2921d",
+      "sample_ids": [
+        "50001_c001",
+        "50018_c002",
+        "50034_c004",
+        "50047_c012",
+        "50065_c013",
+        "50089_c005",
+        "50103_c006",
+        "50124_c013",
+        "50143_c004",
+        "50158_c009"
+      ],
+      "state_signature": "5cda99e18e9a39e349aad823dc0f05608c641794a7371622c7b02e73682ae7eb"
+    }
+  },
+  "mysql": {
+    "server": {
+      "version": "8.4.13",
+      "port": 3306,
+      "account": "law_rag_app@127.0.0.1"
+    },
+    "counts": {
+      "statute": {
+        "documents": 128,
+        "parents": 511
+      },
+      "case": {
+        "documents": 174,
+        "parents": 349
+      }
+    },
+    "source_type_basis": "JSON directory, never an ID prefix heuristic",
+    "expected_parents": 860,
+    "mysql_parents": 860,
+    "all_expected_text_title_path_doc_links_match": true,
+    "runtime_json_fallback_calls": 0,
+    "direct_read_seconds": 0.016271999997115927,
+    "runtime_mysql_seconds": {
+      "statute": 0.017996800001128577,
+      "case": 0.035758500001975335
+    },
+    "protected_hashes": {
+      "G:\\MSBD5018_agentic-rag-law-main\\api_key\\api_config.yaml": "ec0348419f3d8b738b7cee3485f156107ac20a4216b298246ab088c1a311b50f",
+      "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\案例库构建与双库接入优化记录.md": "4a5c3a27c8856c269f3d8e904705d4bd5df0c0eaf5bd1e0745285b4b128aadae",
+      "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report_windtunnel_ab.md": "b94c972d890751d9b5fbc5b955e0e9f08a65b3c585a15b3db31f3ba5537d1e0a"
+    },
+    "no_ddl_executed": true,
+    "new_missing_parent_inserts": 0
+  },
+  "index_cold": {
+    "corpus_fingerprint": "ef3c8a19bbd66a922644d2e8a724f0c8bb25113b65029c36b1577c4d6ad4e235",
+    "lexical_config_version": "legal-lexical-v1.0",
+    "cache_hit": false,
+    "build_seconds": 4.104080299999623,
+    "access_seconds": 4.145019099996716
+  },
+  "index_warm": {
+    "corpus_fingerprint": "ef3c8a19bbd66a922644d2e8a724f0c8bb25113b65029c36b1577c4d6ad4e235",
+    "lexical_config_version": "legal-lexical-v1.0",
+    "cache_hit": true,
+    "build_seconds": 0.0,
+    "access_seconds": 0.04061889999866253
+  },
+  "dependencies": {
+    "jieba": "0.42.1",
+    "bm25": "in-repo Okapi with positive IDF"
+  },
+  "protected_hashes": {
+    "G:\\MSBD5018_agentic-rag-law-main\\api_key\\api_config.yaml": "ec0348419f3d8b738b7cee3485f156107ac20a4216b298246ab088c1a311b50f",
+    "G:\\MSBD5018_agentic-rag-law-main\\rag\\source_policy.py": "84412272cca11d64c3873e81c5b1f64d5ef3c013a41e3062a5b56882c1ed6d9c",
+    "G:\\MSBD5018_agentic-rag-law-main\\rag\\evidence.py": "cae1639bc95fbc2e4e5ceb44c44f37e0777ac100d23a0845ded65e137f6f842b",
+    "G:\\MSBD5018_agentic-rag-law-main\\eval\\queries_ablation_20.jsonl": "6be58f28c85529a2306abadc361535560dc9e0080bc40b6ef2bda3025b382b83",
+    "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report_ablation_4way.md": "189928bc602efe40321c63eee50f004aae427f0e36686cf48845fe3a94102896",
+    "G:\\MSBD5018_agentic-rag-law-main\\Refinement and Optimization\\report1.md": "92e0c67a78e3a011ad66d3e318bdc0580989fc86f664d9033c745c24b00021a5"
+  },
+  "baseline_audit_queries": 20,
+  "qdrant_writes": 0,
+  "lexical_implementation_sha256": "a3e8a18fe1680aae975baecf01d730d6953d80c9de3e30fc63460a39cbf6af04"
+}

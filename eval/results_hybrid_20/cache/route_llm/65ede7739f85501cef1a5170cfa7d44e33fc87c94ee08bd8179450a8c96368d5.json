@@ -1,0 +1,21 @@
+{
+  "signature": "65ede7739f85501cef1a5170cfa7d44e33fc87c94ee08bd8179450a8c96368d5",
+  "request": {
+    "query": [
+      {
+        "role": "system",
+        "content": "你只输出可解析 JSON。"
+      },
+      {
+        "role": "user",
+        "content": "你是劳动法 Agentic RAG 系统的话题延续与信息延续判断模块。请只输出 JSON。\n\n任务：用户在上一个问题得到回答后，又发了新消息。请判断两件事：\n1. 是否延续话题（is_continuation）：是追问上一个案件，还是开启新话题。\n2. 信息延续（retained_entities / retained_satisfied）：无论是否延续话题，判断上一个话题已确认的信息点中，哪些在当前问题里仍然成立、可以沿用。\n\n## 判断标准\n\n**话题延续（is_continuation = true）**：\n- 用户对上一轮答案提出质疑、要求补充解释、询问细节\n- 用户针对答案中提到的法条/概念进一步提问\n- 例：\"能再详细解释一下吗\"\"这个法条具体怎么理解\"\n\n**新话题（is_continuation = false）**：\n- 用户提出新的事实、法律关系或问题，与上一轮主题无关\n- 例：\"那我还有加班费没结清的问题\"（与上一轮的拖欠工资是不同的争议焦点）\n\n## 信息延续（retained_entities / retained_satisfied）\n\n即使开启新话题，某些信息仍可能延续。请根据当前问题的表述，结合\"已知实体\"和\"已满足信息\"，逐项判断哪些仍然成立：\n\n- retained_entities：从\"已知实体\"中筛选出当前问题里仍然成立、仍可沿用的键值对。已经改变或与当前问题无关的，不要放入。\n- retained_satisfied：从\"已满足信息\"中筛选出当前问题里仍然成立、仍可沿用的项。已经改变或不再适用的，不要放入。\n\n判断要点：\n- 身份（当事人是劳动者还是用人单位）是\"每个案件各自独立\"的：新话题里用户角色可能改变，只有在当前问题明确沿用同一角色时才延续。\n- 法律关系（如劳动关系）若两个话题都是同一类纠纷，通常可延续。\n- 金额、时间节点、证据等通常是\"具体案件\"专属，新话题一般不延续（除非当前问题明确指向同一案件）。\n\n## 字段\n\n- is_continuation: boolean\n- rewritten_query: string，话题延续时给出检索改写 query；新话题留空。注意：rewritten_query 始终用中文（法条库为中文）。\n- retained_entities: object，延续的实体（可为空对象 {}）\n- retained_satisfied: string[]，延续的已满足信息（可为空数组 []）\n\n## Few-shot 示例\n\n示例1 —— 话题延续：\n已知实体：{\"legal_relations\": [\"劳动关系\"], \"amounts\": [\"三个月工资\"]}\n已满足信息：[\"当事人身份：劳动者\", \"法律关系：劳动关系\"]\n用户本次输入：能详细说说仲裁时效怎么算吗？\n输出：\n{\"is_continuation\": true, \"rewritten_query\": \"劳动争议 仲裁时效\", \"retained_entities\": {\"legal_relations\": [\"劳动关系\"], \"amounts\": [\"三个月工资\"]}, \"retained_satisfied\": [\"当事人身份：劳动者\", \"法律关系：劳动关系\"]}\n\n示例2 —— 新话题，身份改变：\n已知实体：{\"subjects\": [\"公司\"], \"legal_relations\": [\"劳动关系\"], \"amounts\": [\"三个月工资\"]}\n已满足信息：[\"当事人身份：劳动者\", \"法律关系：劳动关系\"]\n用户本次输入：我的员工离职后要竞业限制怎么办？\n输出：\n{\"is_continuation\": false, \"rewritten_query\": \"\", \"retained_entities\": {\"legal_relations\": [\"劳动关系\"]}, \"retained_satisfied\": [\"法律关系：劳动关系\"]}\n\n## 输入\n\n已知实体（上一个话题抽取并累积的）：\n{\"cases\": [\"指导案例182号\"]}\n\n已满足信息（上一个话题已确认的追问项）：\n[\"原话题：指导案例182号奖金\"]\n\n最近对话上下文：\n[{\"role\": \"user\", \"content\": \"请检索指导案例182号彭宇翔案的裁判思路。\"}, {\"role\": \"assistant\", \"content\": \"上述是奖金案例的说明。\"}]\n\n用户上一条消息（系统回复，仅供参考）：\n\"请检索指导案例182号彭宇翔案的裁判思路。\"\n\n用户本次输入：换个话题，请解释劳动法第四十四条的加班工资规则。"
+      }
+    ],
+    "model": "deepseek-chat",
+    "temperature": 0.1,
+    "endpoint_sha256": "948f1ecb6b48f91adc4e110d0351cd172b16450e9936d358992e0dfad7b863f3"
+  },
+  "value": "{\"is_continuation\": false, \"rewritten_query\": \"\", \"retained_entities\": {}, \"retained_satisfied\": []}",
+  "seconds": 5.193270799998572,
+  "origin": "real_api"
+}

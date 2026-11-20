@@ -1,0 +1,1469 @@
+[
+  {
+    "query_id": "q025",
+    "chunk_id": "00002_c010",
+    "parent_id": "00002_p003",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00002_c010",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        19
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动合同法"
+      ],
+      "version_tag": "20121228",
+      "owned_articles": [
+        18,
+        19
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q029",
+    "chunk_id": "00002_c023",
+    "parent_id": "00002_p005",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00002_c023",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        42
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动合同法"
+      ],
+      "version_tag": "20121228",
+      "owned_articles": [
+        42
+      ],
+      "referenced_articles": [
+        40,
+        41
+      ],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q029",
+    "chunk_id": "00002_c025",
+    "parent_id": "00002_p005",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00002_c025",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        45
+      ],
+      "matched_referenced_articles": [
+        42
+      ],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动合同法"
+      ],
+      "version_tag": "20121228",
+      "owned_articles": [
+        44,
+        45
+      ],
+      "referenced_articles": [
+        42
+      ],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q029",
+    "chunk_id": "00002_c024",
+    "parent_id": "00002_p005",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00002_c024",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        42
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动合同法"
+      ],
+      "version_tag": "20121228",
+      "owned_articles": [
+        42,
+        43,
+        44
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q033",
+    "chunk_id": "00002_c015",
+    "parent_id": "00002_p004",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00002_c015",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        30
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动合同法"
+      ],
+      "version_tag": "20121228",
+      "owned_articles": [
+        29,
+        30,
+        31
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q038",
+    "chunk_id": "00012_c017",
+    "parent_id": "00012_p005",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00012_c017",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        26
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "劳动保障监察条例"
+      ],
+      "version_tag": "2004",
+      "owned_articles": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q038",
+    "chunk_id": "00012_c018",
+    "parent_id": "00012_p005",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00012_c018",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        26
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "劳动保障监察条例"
+      ],
+      "version_tag": "2004",
+      "owned_articles": [
+        26,
+        27
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q042",
+    "chunk_id": "00002_c039",
+    "parent_id": "00002_p006",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00002_c039",
+      "level": "high",
+      "tightness": 3,
+      "matched_owned_articles": [
+        68,
+        71,
+        72
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动合同法"
+      ],
+      "version_tag": "20121228",
+      "owned_articles": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q043",
+    "chunk_id": "00001_c012",
+    "parent_id": "00001_p004",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00001_c012",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        27
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动争议调解仲裁法"
+      ],
+      "version_tag": "20071229",
+      "owned_articles": [
+        25,
+        26,
+        27
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q054",
+    "chunk_id": "20008_c021",
+    "parent_id": "20008_p021",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "20008_c021",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        20
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "最高人民法院关于审理劳动争议案件适用法律问题的解释(2)"
+      ],
+      "version_tag": "解释2|2025",
+      "owned_articles": [
+        20
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q055",
+    "chunk_id": "50068_c001",
+    "parent_id": "50068_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50068_c001",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        10,
+        17,
+        82
+      ],
+      "owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q055",
+    "chunk_id": "50068_c006",
+    "parent_id": "50068_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50068_c006",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        3
+      ],
+      "owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q055",
+    "chunk_id": "50068_c005",
+    "parent_id": "50068_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50068_c005",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        1,
+        3
+      ],
+      "owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "referenced_case_ids": [
+        "(2019)京民申986号"
+      ]
+    }
+  },
+  {
+    "query_id": "q055",
+    "chunk_id": "50068_c003",
+    "parent_id": "50068_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50068_c003",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "referenced_case_ids": [
+        "(2017)京0108民初45496号",
+        "(2017)第9691号"
+      ]
+    }
+  },
+  {
+    "query_id": "q055",
+    "chunk_id": "50068_c002",
+    "parent_id": "50068_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50068_c002",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        17,
+        82
+      ],
+      "owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q055",
+    "chunk_id": "50068_c007",
+    "parent_id": "50068_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50068_c007",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        6
+      ],
+      "owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q055",
+    "chunk_id": "50068_c004",
+    "parent_id": "50068_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50068_c004",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_179"
+      ],
+      "referenced_case_ids": [
+        "(2017)京0108民初45496号",
+        "(2018)京01民终5911号",
+        "(2019)京民申986号"
+      ]
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50071_c001",
+    "parent_id": "50071_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50071_c001",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        3,
+        4
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c009",
+    "parent_id": "50065_p002",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50065_c009",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c010",
+    "parent_id": "50065_p002",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50065_c010",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [
+        7
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c008",
+    "parent_id": "50065_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50065_c008",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c007",
+    "parent_id": "50065_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50065_c007",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c018",
+    "parent_id": "50065_p003",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c018",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c001",
+    "parent_id": "50065_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c001",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c017",
+    "parent_id": "50065_p003",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c017",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50071_c007",
+    "parent_id": "50071_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50071_c007",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        7
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c021",
+    "parent_id": "50065_p004",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c021",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [
+        2
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50071_c006",
+    "parent_id": "50071_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50071_c006",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        7
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c022",
+    "parent_id": "50065_p004",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c022",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [
+        2
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c024",
+    "parent_id": "50065_p004",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c024",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c016",
+    "parent_id": "50065_p003",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c016",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [
+        7
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c019",
+    "parent_id": "50065_p003",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c019",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [
+        7
+      ],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c020",
+    "parent_id": "50065_p003",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c020",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c023",
+    "parent_id": "50065_p004",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c023",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c004",
+    "parent_id": "50065_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c004",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": [
+        "(2018)苏0104民初6032号",
+        "(2018)苏01民终10066号"
+      ]
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50071_c003",
+    "parent_id": "50071_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50071_c003",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c005",
+    "parent_id": "50065_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c005",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": [
+        "(2018)苏01民终10066号"
+      ]
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50065_c011",
+    "parent_id": "50065_p002",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50065_c011",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2016",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q057",
+    "chunk_id": "50071_c005",
+    "parent_id": "50071_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50071_c005",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_182"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "00002_c013",
+    "parent_id": "00002_p003",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "00002_c013",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [
+        24
+      ],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [
+        "中华人民共和国劳动合同法"
+      ],
+      "version_tag": "20121228",
+      "owned_articles": [
+        24
+      ],
+      "referenced_articles": [],
+      "owned_case_ids": [],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c001",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50074_c001",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [
+        24
+      ],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [
+        23,
+        24
+      ],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c003",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50074_c003",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c002",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50074_c002",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c010",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50074_c010",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c007",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": true,
+    "metadata": {
+      "chunk_id": "50074_c007",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c006",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50074_c006",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": [
+        "(2021)沪0115民初35993号"
+      ]
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c004",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50074_c004",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": [
+        "(2021)沪0115民初35993号"
+      ]
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c008",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50074_c008",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": []
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c005",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50074_c005",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": [
+        "(2021)沪0115民初35993号",
+        "(2021)沪01民终12282号"
+      ]
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50036_c039",
+    "parent_id": "50036_p007",
+    "level": "weak",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50036_c039",
+      "level": "weak",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [
+        "guiding_case_190"
+      ],
+      "normalized_law_names": [],
+      "version_tag": "2025",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "(2025)苏02民终1980号"
+      ],
+      "referenced_case_ids": [
+        "guiding_case_190"
+      ]
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50036_c040",
+    "parent_id": "50036_p007",
+    "level": "weak",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50036_c040",
+      "level": "weak",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [],
+      "matched_referenced_case_ids": [
+        "guiding_case_190"
+      ],
+      "normalized_law_names": [],
+      "version_tag": "2025",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "(2025)苏02民终1980号"
+      ],
+      "referenced_case_ids": [
+        "guiding_case_190"
+      ]
+    }
+  },
+  {
+    "query_id": "q060",
+    "chunk_id": "50074_c009",
+    "parent_id": "50074_p001",
+    "level": "high",
+    "reserved": false,
+    "metadata": {
+      "chunk_id": "50074_c009",
+      "level": "high",
+      "tightness": 1,
+      "matched_owned_articles": [],
+      "matched_referenced_articles": [],
+      "matched_owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "matched_referenced_case_ids": [],
+      "normalized_law_names": [],
+      "version_tag": "2022",
+      "owned_articles": [],
+      "referenced_articles": [],
+      "owned_case_ids": [
+        "guiding_case_190"
+      ],
+      "referenced_case_ids": []
+    }
+  }
+]

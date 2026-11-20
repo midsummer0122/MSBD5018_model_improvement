@@ -1,0 +1,852 @@
+[
+  {
+    "query_id": "q001",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": false,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q001",
+    "parent_id": "50069_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q004",
+    "parent_id": "00002_p004",
+    "doc_type": "statute",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V3": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V4": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q004",
+    "parent_id": "50071_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q008",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": false,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q008",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": false,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q008",
+    "parent_id": "50002_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q011",
+    "parent_id": "00017_p008",
+    "doc_type": "statute",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V3": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V4": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q011",
+    "parent_id": "50009_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q014",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": false,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q014",
+    "parent_id": "00002_p008",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q014",
+    "parent_id": "50068_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q017",
+    "parent_id": "00017_p006",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q017",
+    "parent_id": "50123_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q021",
+    "parent_id": "20008_p020",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q021",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q024",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q025",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q029",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q033",
+    "parent_id": "00002_p004",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q038",
+    "parent_id": "00012_p005",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q042",
+    "parent_id": "00002_p006",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q043",
+    "parent_id": "00001_p004",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q047",
+    "parent_id": "00001_p004",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q050",
+    "parent_id": "00001_p002",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q050",
+    "parent_id": "00001_p004",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q054",
+    "parent_id": "20008_p021",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q055",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q055",
+    "parent_id": "00002_p008",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q055",
+    "parent_id": "50068_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q057",
+    "parent_id": "00002_p004",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": false,
+      "evidence": false
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false
+    }
+  },
+  {
+    "query_id": "q057",
+    "parent_id": "50071_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q060",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "V1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  },
+  {
+    "query_id": "q060",
+    "parent_id": "50074_p001",
+    "doc_type": "case",
+    "V1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false
+    },
+    "V2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    },
+    "V4": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true
+    }
+  }
+]

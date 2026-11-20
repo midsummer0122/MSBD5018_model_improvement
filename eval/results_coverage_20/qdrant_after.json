@@ -1,0 +1,16 @@
+{
+  "law_statutes": {
+    "count": 1384,
+    "vectors": {
+      "size": 1024,
+      "distance": "Cosine"
+    }
+  },
+  "law_cases": {
+    "count": 2334,
+    "vectors": {
+      "size": 1024,
+      "distance": "Cosine"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "ordered_candidate_changes": [
+    {
+      "query_id": "q008",
+      "variant": "M2"
+    },
+    {
+      "query_id": "q008",
+      "variant": "M3"
+    },
+    {
+      "query_id": "q025",
+      "variant": "M3"
+    },
+    {
+      "query_id": "q033",
+      "variant": "M3"
+    },
+    {
+      "query_id": "q060",
+      "variant": "M3"
+    }
+  ],
+  "note": "Correctness hardening of document identity; no quotas, BM25/RRF parameters or labels tuned."
+}

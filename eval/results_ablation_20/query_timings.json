@@ -1,0 +1,222 @@
+[
+  {
+    "query_id": "q001",
+    "mysql_parent_count": 27,
+    "timings": {
+      "embedding_seconds": 8.197216599997773,
+      "search_seconds": 0.9217636000030325,
+      "parent_seconds": 0.1184754999994766,
+      "statute_rerank_seconds": 10.400260700000217,
+      "full_rerank_seconds": 7.52818710000065
+    }
+  },
+  {
+    "query_id": "q004",
+    "mysql_parent_count": 38,
+    "timings": {
+      "embedding_seconds": 5.4708212000005005,
+      "search_seconds": 1.020111400001042,
+      "parent_seconds": 0.014982599997892976,
+      "statute_rerank_seconds": 7.98561879999761,
+      "full_rerank_seconds": 5.833533299999544
+    }
+  },
+  {
+    "query_id": "q008",
+    "mysql_parent_count": 29,
+    "timings": {
+      "embedding_seconds": 7.447772499999701,
+      "search_seconds": 0.9073424999987765,
+      "parent_seconds": 0.03606199999921955,
+      "statute_rerank_seconds": 5.8935928999999305,
+      "full_rerank_seconds": 7.875917099998333
+    }
+  },
+  {
+    "query_id": "q011",
+    "mysql_parent_count": 34,
+    "timings": {
+      "embedding_seconds": 5.474736199998006,
+      "search_seconds": 1.202680300000793,
+      "parent_seconds": 0.02448970000114059,
+      "statute_rerank_seconds": 7.279710400001932,
+      "full_rerank_seconds": 5.634908899999573
+    }
+  },
+  {
+    "query_id": "q014",
+    "mysql_parent_count": 41,
+    "timings": {
+      "embedding_seconds": 7.841642999999749,
+      "search_seconds": 0.9252182000018365,
+      "parent_seconds": 0.03592120000030263,
+      "statute_rerank_seconds": 5.146678500001144,
+      "full_rerank_seconds": 7.500970299999608
+    }
+  },
+  {
+    "query_id": "q017",
+    "mysql_parent_count": 25,
+    "timings": {
+      "embedding_seconds": 5.874975999999151,
+      "search_seconds": 0.935135599997011,
+      "parent_seconds": 0.037167099999351194,
+      "statute_rerank_seconds": 7.547889600002236,
+      "full_rerank_seconds": 7.495092999997723
+    }
+  },
+  {
+    "query_id": "q021",
+    "mysql_parent_count": 43,
+    "timings": {
+      "embedding_seconds": 5.399308200001542,
+      "search_seconds": 1.1945918999990681,
+      "parent_seconds": 0.028428000001440523,
+      "statute_rerank_seconds": 8.027869100002135,
+      "full_rerank_seconds": 5.540025599999353
+    }
+  },
+  {
+    "query_id": "q024",
+    "mysql_parent_count": 29,
+    "timings": {
+      "embedding_seconds": 8.99860130000161,
+      "search_seconds": 0.9096451999976125,
+      "parent_seconds": 0.03364460000011604,
+      "statute_rerank_seconds": 5.586223599999357,
+      "full_rerank_seconds": 7.830354099998658
+    }
+  },
+  {
+    "query_id": "q025",
+    "mysql_parent_count": 28,
+    "timings": {
+      "embedding_seconds": 8.245938000000024,
+      "search_seconds": 1.6665352000018174,
+      "parent_seconds": 0.026335299997299444,
+      "statute_rerank_seconds": 5.219901600001322,
+      "full_rerank_seconds": 8.66967300000033
+    }
+  },
+  {
+    "query_id": "q029",
+    "mysql_parent_count": 37,
+    "timings": {
+      "embedding_seconds": 5.3543562999984715,
+      "search_seconds": 1.0672947999992175,
+      "parent_seconds": 0.0332090000010794,
+      "statute_rerank_seconds": 7.290767399998003,
+      "full_rerank_seconds": 5.479339800000162
+    }
+  },
+  {
+    "query_id": "q033",
+    "mysql_parent_count": 48,
+    "timings": {
+      "embedding_seconds": 7.389396800001123,
+      "search_seconds": 0.9823526000036509,
+      "parent_seconds": 0.03966739999668789,
+      "statute_rerank_seconds": 5.171910900000512,
+      "full_rerank_seconds": 7.43715979999979
+    }
+  },
+  {
+    "query_id": "q038",
+    "mysql_parent_count": 38,
+    "timings": {
+      "embedding_seconds": 5.058126899999479,
+      "search_seconds": 0.9317756000018562,
+      "parent_seconds": 0.033005500001308974,
+      "statute_rerank_seconds": 7.8126889999985,
+      "full_rerank_seconds": 5.678044899999804
+    }
+  },
+  {
+    "query_id": "q042",
+    "mysql_parent_count": 41,
+    "timings": {
+      "embedding_seconds": 6.880175300000701,
+      "search_seconds": 0.8950020000011136,
+      "parent_seconds": 0.01512449999790988,
+      "statute_rerank_seconds": 5.283657799998764,
+      "full_rerank_seconds": 7.802841000000626
+    }
+  },
+  {
+    "query_id": "q043",
+    "mysql_parent_count": 32,
+    "timings": {
+      "embedding_seconds": 5.3777429000001575,
+      "search_seconds": 1.0088212000009662,
+      "parent_seconds": 0.032911399997828994,
+      "statute_rerank_seconds": 7.745565500001248,
+      "full_rerank_seconds": 5.9476801000018895
+    }
+  },
+  {
+    "query_id": "q047",
+    "mysql_parent_count": 38,
+    "timings": {
+      "embedding_seconds": 7.3753899000003,
+      "search_seconds": 1.167910900003335,
+      "parent_seconds": 0.028296399999817368,
+      "statute_rerank_seconds": 5.420212999997602,
+      "full_rerank_seconds": 7.949331700001494
+    }
+  },
+  {
+    "query_id": "q050",
+    "mysql_parent_count": 42,
+    "timings": {
+      "embedding_seconds": 7.824879200001305,
+      "search_seconds": 1.0880100000031234,
+      "parent_seconds": 0.028129100002843188,
+      "statute_rerank_seconds": 5.442572899999504,
+      "full_rerank_seconds": 5.855188999998063
+    }
+  },
+  {
+    "query_id": "q054",
+    "mysql_parent_count": 37,
+    "timings": {
+      "embedding_seconds": 5.234469999999419,
+      "search_seconds": 0.9980644999959623,
+      "parent_seconds": 0.028023200000461657,
+      "statute_rerank_seconds": 8.402878699998837,
+      "full_rerank_seconds": 5.749326500001189
+    }
+  },
+  {
+    "query_id": "q055",
+    "mysql_parent_count": 43,
+    "timings": {
+      "embedding_seconds": 5.357774500000232,
+      "search_seconds": 1.612083200001507,
+      "parent_seconds": 0.025368500002514338,
+      "statute_rerank_seconds": 7.681326400001126,
+      "full_rerank_seconds": 5.445335000000341
+    }
+  },
+  {
+    "query_id": "q057",
+    "mysql_parent_count": 36,
+    "timings": {
+      "embedding_seconds": 7.199984800001403,
+      "search_seconds": 1.3668486999995366,
+      "parent_seconds": 0.014162400002533104,
+      "statute_rerank_seconds": 5.132181000000855,
+      "full_rerank_seconds": 5.454363299999386
+    }
+  },
+  {
+    "query_id": "q060",
+    "mysql_parent_count": 34,
+    "timings": {
+      "embedding_seconds": 5.624008500002674,
+      "search_seconds": 1.0301107999985106,
+      "parent_seconds": 0.021999099997628946,
+      "statute_rerank_seconds": 7.272552400001587,
+      "full_rerank_seconds": 5.447606199999427
+    }
+  }
+]

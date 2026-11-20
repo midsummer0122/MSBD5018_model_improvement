@@ -1,0 +1,1515 @@
+{
+  "fingerprint": "ef3c8a19bbd66a922644d2e8a724f0c8bb25113b65029c36b1577c4d6ad4e235",
+  "files": [
+    {
+      "path": "json/中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见(FBM-CLI.16.5232157).json",
+      "bytes": 35088,
+      "sha256": "aba671fb6cd27e1581d8bf1227624257fbb615f2f94b76d6a3088395e8466307"
+    },
+    {
+      "path": "json/中共中央、国务院关于构建和谐劳动关系的意见(FBM-CLI.16.246616).json",
+      "bytes": 46971,
+      "sha256": "a7b7e53fb276cd47e47bc443e91808d1d759f87ab41d0414610392becb661d1e"
+    },
+    {
+      "path": "json/中共中央、国务院关于职工休假问题的通知(FBM-CLI.16.37092).json",
+      "bytes": 4374,
+      "sha256": "839edb60bd3ea038d88e003052796d8de7eabb8bf9fb3db946a17542c6de0cdb"
+    },
+    {
+      "path": "json/中共中央办公厅、国务院办公厅关于加强新就业群体服务管理的意见(FBM-CLI.16.5342860).json",
+      "bytes": 24130,
+      "sha256": "c91ac4beae1d94d4de4e55b902a7696b786dde5cc68f179cc84fe9e0f0c2df13"
+    },
+    {
+      "path": "json/中共中央办公厅、国务院办公厅关于加快建立长期护理保险制度的意见(FBM-CLI.16.5340611).json",
+      "bytes": 26296,
+      "sha256": "1f70f2afdc45fad742d8ec0c56612748eb44fb08c0e425e578e35ae15f8b0d98"
+    },
+    {
+      "path": "json/中共中央办公厅、国务院办公厅印发《关于促进劳动力和人才社会性流动体制机制改革的意见》(FBM-CLI.16.338314).json",
+      "bytes": 27766,
+      "sha256": "36de384c2d507bdf6b9eef53afd5011dced730fa956065c9ae4088b80d0b79b6"
+    },
+    {
+      "path": "json/中共中央办公厅、国务院办公厅印发《关于解决部分退役士兵社会保险问题的意见》(FBM-CLI.16.331632).json",
+      "bytes": 15005,
+      "sha256": "8e6de3a0de95d2a1a66c6570a07e1d7e8901a327e0e002e0d1e035faa3164f78"
+    },
+    {
+      "path": "json/中华人民共和国劳动争议调解仲裁法(20071229).json",
+      "bytes": 39998,
+      "sha256": "4b70aee4f9db340209496afe348992b6178db036ba2aa85128f097238f5a5946"
+    },
+    {
+      "path": "json/中华人民共和国劳动合同法(20121228).json",
+      "bytes": 81596,
+      "sha256": "8cc8476121dbcc8ed5bec5cef43b245d53816648618708d0f4d026f4cb2eb37b"
+    },
+    {
+      "path": "json/中华人民共和国劳动合同法实施条例(FBM-CLI.2.108577).json",
+      "bytes": 31973,
+      "sha256": "21092f7ede649ee9b62386d1d1a18108dccca783bbf72d4502565a9f10d0e877"
+    },
+    {
+      "path": "json/中华人民共和国劳动法(20181229).json",
+      "bytes": 58824,
+      "sha256": "1e54fa5ee0474ef9df35f0a41b295de03f27844688add876463c34b73ac7211f"
+    },
+    {
+      "path": "json/中华人民共和国矿山安全法实施条例(FBM-CLI.2.15724).json",
+      "bytes": 59583,
+      "sha256": "7f94b2e363e8791d434d7d32f44e81db86deeed36093716b13342618978dfd00"
+    },
+    {
+      "path": "json/事业单位人事管理条例(FBM-CLI.2.225204).json",
+      "bytes": 21615,
+      "sha256": "aab042c5a2c5f8861a4d46f3cea251c6996be1ed8d97dd2cf6332a266982f21f"
+    },
+    {
+      "path": "json/人力资源市场暂行条例(FBM-CLI.2.317604).json",
+      "bytes": 35005,
+      "sha256": "237c2211b9ba5890d29ba4b3959094926bc2b1eb01cc2c024963b3be4fecb5e0"
+    },
+    {
+      "path": "json/人力资源社会保障部、中央综治办、最高人民法院、司法部、财政部、中华全国总工会、中华全国工商业联合会、中国企业联合会 ...(FBM-CLI.3.292588).json",
+      "bytes": 40619,
+      "sha256": "424cd8066d1226a7f6162ebfe819178d3e6391ea5881aa517277fb6d83189758"
+    },
+    {
+      "path": "json/人力资源社会保障部、最高人民法院关于加强劳动人事争议仲裁与诉讼衔接机制建设的意见(FBM-CLI.3.304549).json",
+      "bytes": 18445,
+      "sha256": "c2fc6dac1f03dca0b84c79ea76bb678568be6dc322df457ba4eb03a150d76ecc"
+    },
+    {
+      "path": "json/住房公积金管理条例(2026修订)(FBM-CLI.2.5350585).json",
+      "bytes": 40532,
+      "sha256": "6fb927b48b902acf9ed19c63e3591476cd845849c6c82e5c255dfe06b08794d7"
+    },
+    {
+      "path": "json/使用有毒物品作业场所劳动保护条例(2024修订)(FBM-CLI.2.5288920).json",
+      "bytes": 83093,
+      "sha256": "06313ae6f378e8935f6cc862f6262cb7ab1117407b1145f74ee1de642a381da8"
+    },
+    {
+      "path": "json/保障农民工工资支付条例(FBM-CLI.2.338524).json",
+      "bytes": 55625,
+      "sha256": "a7d662420d08127c05a00251e9b0f94a14bfaf3656667f6357df92861e791875"
+    },
+    {
+      "path": "json/全国社会保障基金条例(FBM-CLI.2.267399).json",
+      "bytes": 21069,
+      "sha256": "f765a18fca6610fa61372f2cee8a124fde5b42cf8928419fc9d5102585d295b6"
+    },
+    {
+      "path": "json/劳动保障监察条例(FBM-CLI.2.55940).json",
+      "bytes": 34233,
+      "sha256": "15d248a268cd2fec93514d184c3632eae07a7e1339525f980af591a5e145b63f"
+    },
+    {
+      "path": "json/劳动就业服务企业管理规定(FBM-CLI.2.4886).json",
+      "bytes": 28171,
+      "sha256": "9dea247752b3c302906d93705d06a0fe7f0d2973390544b878da7bea5ae88acb"
+    },
+    {
+      "path": "json/国务院、中央军委关于批转人力资源社会保障部总参谋部总政治部军人随军家属就业安置办法的通知(FBM-CLI.2.211549).json",
+      "bytes": 25732,
+      "sha256": "b10b82015141bdf088fafe7dc30e64e37eff2e743b03dcadca418a5899d5e285"
+    },
+    {
+      "path": "json/国务院、中央军委批转民政部、劳动部、总参谋部关于退伍义务兵安置工作随用工单位改革实行劳动合同制意见的通知(FBM-CLI.2.6317).json",
+      "bytes": 15733,
+      "sha256": "e2045e1afc50caec6873ecf2ffec9579248698e6098eafc3ce54341a38912252"
+    },
+    {
+      "path": "json/国务院关于企业职工养老保险制度改革的决定(FBM-CLI.2.5253).json",
+      "bytes": 15929,
+      "sha256": "57c48cbcc496eadb88e592090b29088cc8ee4bfc48da8ae7a93741821c174718"
+    },
+    {
+      "path": "json/国务院关于修改《住房公积金管理条例》的决定(2026)(FBM-CLI.2.5350586).json",
+      "bytes": 17712,
+      "sha256": "51fcb8be81c95264c60ef1e1c5c24d0e63188ba0bd9f57fe3d059d519e671da7"
+    },
+    {
+      "path": "json/国务院关于修改《工伤保险条例》的决定(2010)(FBM-CLI.2.142904).json",
+      "bytes": 22815,
+      "sha256": "4175ad2a96e1ed1df933e46aee952d98862635b4e9f7ef6acc921e24be9cd3ca"
+    },
+    {
+      "path": "json/国务院关于做好劳动就业工作的通知(FBM-CLI.2.4680).json",
+      "bytes": 22870,
+      "sha256": "9a80dc08a641e5e67a8c129670727fe2a140d5217bf427b1ff0a9616a8a82217"
+    },
+    {
+      "path": "json/国务院关于加强职业培训促进就业的意见(FBM-CLI.2.139464).json",
+      "bytes": 39538,
+      "sha256": "2b298afddd7f9bc475a60dd452082336ddcd70587150d39cf810138a395f1775"
+    },
+    {
+      "path": "json/国务院关于印发“十四五”就业促进规划的通知(FBM-CLI.2.5055558).json",
+      "bytes": 139127,
+      "sha256": "b247f5cf6faa532001a6e5425f556932569957cdb45143a61bf3047ea6c48fd9"
+    },
+    {
+      "path": "json/国务院关于印发《实施就业优先战略“十五五”规划》的通知(FBM-CLI.2.5346265).json",
+      "bytes": 80660,
+      "sha256": "bb50018aef772de28dbd2b30df45f46fb1312d5185b48e9282dd4107f89f4c4a"
+    },
+    {
+      "path": "json/国务院关于印发基本养老保险基金投资管理办法的通知(FBM-CLI.2.253483).json",
+      "bytes": 62762,
+      "sha256": "7e7e3b2de7827a0c1092cd64ee4c26ae67ba4f98fb05058fe7398b5bde2e4770"
+    },
+    {
+      "path": "json/国务院关于完善企业职工基本养老保险制度的决定(FBM-CLI.2.66463).json",
+      "bytes": 22436,
+      "sha256": "7daf8edc45322614285cb348cf2dd260df8aebe316e8f1c57edb92ed9bfd0c0b"
+    },
+    {
+      "path": "json/国务院关于实行企业职工基本养老保险省级统筹和行业统筹移交地方管理有关问题的通知(FBM-CLI.2.21049).json",
+      "bytes": 17096,
+      "sha256": "d75fe161a308ba1092b361004eb644ee45dc304e7ef122379090c5336d8719fb"
+    },
+    {
+      "path": "json/国务院关于建立城镇职工基本医疗保险制度的决定(FBM-CLI.2.21638).json",
+      "bytes": 22638,
+      "sha256": "d1bfd27d54247a28634ea28f86a85ec9665799babf2acb6a4e34ced546b9c025"
+    },
+    {
+      "path": "json/国务院关于建立统一的企业职工基本养老保险制度的决定(FBM-CLI.2.18597).json",
+      "bytes": 16192,
+      "sha256": "a5b3881345a4156041d691c1e0e911aa8f4cf4e115f64f14824c1e25d62eb92d"
+    },
+    {
+      "path": "json/国务院关于建立统一的城乡居民基本养老保险制度的意见(FBM-CLI.2.219312).json",
+      "bytes": 25512,
+      "sha256": "ed044b38b09f8023d2c00c6fa1a8cac6642c0da9be1b059f6cedb8d73adeeb89"
+    },
+    {
+      "path": "json/国务院关于机关事业单位工作人员养老保险制度改革的决定(FBM-CLI.2.241256).json",
+      "bytes": 23762,
+      "sha256": "37ef3a4bb8ab257470b4d516e6fc55a1b3f20ff255f3724e7ddeeb29e1187dc8"
+    },
+    {
+      "path": "json/国务院关于深化企业职工养老保险制度改革的通知(FBM-CLI.2.11402).json",
+      "bytes": 46386,
+      "sha256": "663716055eacf020c97124bddc9f2925885492fb0c714d5dc2d48d583fa4032f"
+    },
+    {
+      "path": "json/国务院关于灵活就业和新就业形态劳动者权益保障工作情况的报告(FBM-CLI.2.5332584).json",
+      "bytes": 33433,
+      "sha256": "a4c2ad7bb1a6aef591026178193e899535b644c42ee7e13387b42ddda7d1a148"
+    },
+    {
+      "path": "json/国务院关于职工工作时间的规定(1995修订)(FBM-CLI.2.11532).json",
+      "bytes": 7518,
+      "sha256": "9412b47c6639aa2e3dde5a64ab2851cb39e4dd504098619dcb4d85be13e2fd58"
+    },
+    {
+      "path": "json/国务院关于进一步做好稳就业工作的意见(FBM-CLI.2.338127).json",
+      "bytes": 32733,
+      "sha256": "0073a2dfe766f455957f4cf8171f5e0faf6602c9e390913e74717dad2d14eaa9"
+    },
+    {
+      "path": "json/国务院关于进一步加强就业再就业工作的通知(FBM-CLI.2.60778).json",
+      "bytes": 55934,
+      "sha256": "bf334b64076b8fce23ed4d7235163a1aa9f03a874e8d445e96d2163107ef6736"
+    },
+    {
+      "path": "json/国务院关于颁发《国务院关于安置老弱病残干部的暂行办法》和《国务院关于工人退休、退职的暂行办法》的通知(FBM-CLI.2.5077246).json",
+      "bytes": 2976,
+      "sha256": "44dd99c65e8603dc4c12ca936fb8aa6eb725fa80a701ea7c512f63fb35228ade"
+    },
+    {
+      "path": "json/国务院关于颁发国家机关工作人员退休、退职、病假期间待遇等暂行办法和计算工作年限暂行规定的命令(FBM-CLI.2.88393).json",
+      "bytes": 13022,
+      "sha256": "3a2d6e49c0812a8cc16779fbe434d68b560e9d0cdbb0bd08e1301ec353dd46cc"
+    },
+    {
+      "path": "json/国务院办公厅关于优化调整稳就业政策措施全力促发展惠民生的通知(FBM-CLI.2.5165552).json",
+      "bytes": 20656,
+      "sha256": "695d103034e88bd3dbbb00d6f7ce1eabafb01afa2ba722d1bcca0d1ae6bcdcb1"
+    },
+    {
+      "path": "json/国务院办公厅关于全面推进生育保险和职工基本医疗保险合并实施的意见(FBM-CLI.2.330650).json",
+      "bytes": 14968,
+      "sha256": "380c9d82d05d01013d99604c7a7ba01ce0b7ebc043e73bad678693b0ffc967bc"
+    },
+    {
+      "path": "json/国务院办公厅关于印发《促进残疾人就业三年行动方案(2025—2027年)》的通知(FBM-CLI.2.5299227).json",
+      "bytes": 34902,
+      "sha256": "7e77a33ffac0414a82be3891ad6a7433f6fa82def107c601e938308f8d9ad60c"
+    },
+    {
+      "path": "json/国务院办公厅关于印发《保障农民工工资支付工作考核办法》的通知(2023修订)(FBM-CLI.2.5177543).json",
+      "bytes": 17267,
+      "sha256": "bcd6daff85430235e73f1d6a7b776b072c4b69417d5ebe5d1af5b9e946363684"
+    },
+    {
+      "path": "json/国务院办公厅关于印发降低社会保险费率综合方案的通知(FBM-CLI.2.331025).json",
+      "bytes": 11615,
+      "sha256": "53f36000db30c53a1e28794ff782e15fb4e506394de30660b342b8b9c8221e3f"
+    },
+    {
+      "path": "json/国务院办公厅关于建立健全职工基本医疗保险门诊共济保障机制的指导意见(FBM-CLI.2.5012020).json",
+      "bytes": 17731,
+      "sha256": "2eea95bb2c521db4cee39f6d90365e8f5111bd831f1affb9bd0172180425f75b"
+    },
+    {
+      "path": "json/国务院办公厅关于推动个人养老金发展的意见(FBM-CLI.2.5116005).json",
+      "bytes": 14908,
+      "sha256": "d3528042458b8a29671b646d4fa7870d18e4d6635376481aad783776f8dabb24"
+    },
+    {
+      "path": "json/国务院办公厅关于支持多渠道灵活就业的意见(FBM-CLI.2.344680).json",
+      "bytes": 22057,
+      "sha256": "d9d3a700a557dd857857fec63cf52badb0646400d75a2d382618488e895bd5ff"
+    },
+    {
+      "path": "json/国务院办公厅关于转发人力资源社会保障部、财政部城镇企业职工基本养老保险关系转移接续暂行办法的通知(FBM-CLI.2.125391).json",
+      "bytes": 23157,
+      "sha256": "cfa3fe7df8925cc5f757c45bf286df73b20c1c7d39779ef2672413670da0d798"
+    },
+    {
+      "path": "json/国务院办公厅关于进一步做好高校毕业生等青年就业创业工作的通知(FBM-CLI.2.5116720).json",
+      "bytes": 38737,
+      "sha256": "d58fb948797633f4db54d8eb2af7d9f63239e072082f30bd14db34b479f0bc07"
+    },
+    {
+      "path": "json/国务院办公厅关于进一步加大稳就业政策支持力度的通知(FBM-CLI.2.5300809).json",
+      "bytes": 19051,
+      "sha256": "3c0e71b53f0c8fb7b5a46265a29f55f76a4d914127fb5ec2fdc225aa3abc459f"
+    },
+    {
+      "path": "json/国务院办公厅关于适应人工智能技术发展助力构建就业友好型发展方式的意见(FBM-CLI.2.5355215).json",
+      "bytes": 25146,
+      "sha256": "a38967efb732ece4b8a8418b2aa3c399153109ea5372942c8d62adc5b56630d9"
+    },
+    {
+      "path": "json/国务院办公厅转发劳动保障部关于做好被征地农民就业培训和社会保障工作指导意见的通知(FBM-CLI.2.76039).json",
+      "bytes": 21400,
+      "sha256": "739f2e86db6e89424b4abdcecb3cfca5d73e20479f67836a65eb7422c10762d8"
+    },
+    {
+      "path": "json/国务院办公厅转发劳动保障部等部门关于进一步做好残疾人劳动就业工作若干意见的通知(FBM-CLI.2.24060).json",
+      "bytes": 30266,
+      "sha256": "f65bf49310a90a39e45d6f8cd5e51160e603c5c33b4c6e8644c38351c96dec0c"
+    },
+    {
+      "path": "json/国务院批转劳动部关于因身体条件不能胜任原来工作而被调动工作的职工退休费计算问题的请示报告(FBM-CLI.2.47914).json",
+      "bytes": 6106,
+      "sha256": "967efdcbb78eef276efafb03b5318504168cc25ebc6beba4178ec523fe2ab17f"
+    },
+    {
+      "path": "json/国务院法制办公室对《关于黑龙江省劳动和社会保障厅能否对2003年工伤认定行为重新作出认定的请示》的复函(FBM-CLI.2.5302488).json",
+      "bytes": 2886,
+      "sha256": "0b08714446b08e7ff1d7948d189cb747c9bb53105f2fa93feb15a93e217f7065"
+    },
+    {
+      "path": "json/国务院法制办对《关于＜职工带薪年休假条例＞有关问题的请示》的复函(FBM-CLI.2.306994).json",
+      "bytes": 2811,
+      "sha256": "b54a3993c9f2624c2a2d6f17f448355b739bdf79f67ba7ed35979fef76c7e621"
+    },
+    {
+      "path": "json/国家机关工作人员病假期间生活待遇的规定(FBM-CLI.2.949).json",
+      "bytes": 5992,
+      "sha256": "ec76ffab2522d277399f006ca5fa1b53a1bb456e23217aa4c0be1a8f7a640d49"
+    },
+    {
+      "path": "json/国家统计局关于工资总额组成的规定(FBM-CLI.2.4555).json",
+      "bytes": 13349,
+      "sha256": "c53394b1a5c766d03dd1c6db19e331a7ceefc4eeee2c636cfd75716d6765bbdc"
+    },
+    {
+      "path": "json/国有企业富余职工安置规定(FBM-CLI.2.6220).json",
+      "bytes": 15395,
+      "sha256": "764429c3f9fd0b467df77105b315f3a48e9c8922a939eab0223dc45d1d4abe37"
+    },
+    {
+      "path": "json/失业保险条例(FBM-CLI.2.21640).json",
+      "bytes": 23554,
+      "sha256": "8e31a8637a7810d3435b63e836094f0be5e7671738b47be5b3a865fc3b1442d9"
+    },
+    {
+      "path": "json/女职工劳动保护特别规定(FBM-CLI.2.173287).json",
+      "bytes": 15699,
+      "sha256": "653356ca6c7befc69c887d433e6399ef7f7182449ca9b8369075c11b2a40ea54"
+    },
+    {
+      "path": "json/女职工劳动保护特别规定附录(FBM-CLI.2.173287).json",
+      "bytes": 4892,
+      "sha256": "76c1bd1f4c7c6b35a18d2648d033f48a47c43a85eb2bed1e27f5a965624f6582"
+    },
+    {
+      "path": "json/工伤保险条例(2010修订)(FBM-CLI.2.142905).json",
+      "bytes": 65063,
+      "sha256": "937e8f47d2f6c7536cbee4733a1c22e1ddf3f92ee339d5a39dd0575702d52b8b"
+    },
+    {
+      "path": "json/最高人民检察院、公安部、劳动人事部关于检察机关决定不起诉、免予起诉的原系国家职工的被告人羁押期间工资是否补发问题的答复(FBM-CLI.3.2680).json",
+      "bytes": 4055,
+      "sha256": "fff4a164564aee4c014c8c717538b0c27514245fbd56e79ce30162e6d6f9a7bd"
+    },
+    {
+      "path": "json/最高人民检察院关于挪用失业保险基金和下岗职工基本生活保障资金的行为适用法律问题的批复(FBM-CLI.3.44535).json",
+      "bytes": 2768,
+      "sha256": "7df09178ef534664fe1f27bf5820df85dc94df3f736900ee483e8c0606613009"
+    },
+    {
+      "path": "json/最高人民检察院关于贪污养老、医疗等社会保险基金能否适用《最高人民法院最高人民检察院关于办理贪污贿赂刑事案件适用法律若...(FBM-CLI.3.299106).json",
+      "bytes": 3249,
+      "sha256": "fcce9fa41a091b6c646ce576bad7543b29cd6746d77fba7a6d6704924e19854c"
+    },
+    {
+      "path": "json/最高人民法院、最高人民检察院、人力资源和社会保障部、公安部关于加强对拒不支付劳动报酬案件查处工作的通知(FBM-CLI.3.165866).json",
+      "bytes": 27404,
+      "sha256": "c445152ea0e4d40b7c07a6d0093aacf08b2f524f2b732db7878c1326a8a9e59c"
+    },
+    {
+      "path": "json/最高人民法院、最高人民检察院、人力资源和社会保障部、公安部关于加强涉嫌拒不支付劳动报酬犯罪案件查处衔接工作的通知(FBM-CLI.3.240943).json",
+      "bytes": 19480,
+      "sha256": "276ce6b2ac1fc5aac0aab1555c88fceb9762fdaf3a0d73d2a5910affbf4a782d"
+    },
+    {
+      "path": "json/最高人民法院、统战部、公安部、民政部、国家劳动总局等关于宽释转业人员安置工作后要求办理退休问题的答复(FBM-CLI.3.11634).json",
+      "bytes": 3454,
+      "sha256": "429acb0701573da6ed7d49338df7d247101d9bbb3c9915647cdc5234f34014b2"
+    },
+    {
+      "path": "json/最高人民法院关于事业单位人事争议案件适用法律等问题的答复(FBM-CLI.3.52765).json",
+      "bytes": 3370,
+      "sha256": "0839a3d4d5353815460acd9599ee6a161dde82da7a0c9fe2c8858d8f1d7501f1"
+    },
+    {
+      "path": "json/最高人民法院关于人事争议申请仲裁的时效期间如何计算的批复(FBM-CLI.3.210199).json",
+      "bytes": 1801,
+      "sha256": "b699014896688b957ce7feebe6a8b98691d11733e92a9eb2e830d1746b338176"
+    },
+    {
+      "path": "json/最高人民法院关于人民法院审理事业单位人事争议案件若干问题的规定(FBM-CLI.3.49379).json",
+      "bytes": 2696,
+      "sha256": "54d8f3bc4bf553550a6725c68cc3d64dc8831666e9b335c690fce5ba2d84dbee"
+    },
+    {
+      "path": "json/最高人民法院关于人民法院对经劳动争议仲裁裁决的纠纷准予撤诉或驳回起诉后劳动争议仲裁裁决从何时起生效的解释(FBM-CLI.3.30919).json",
+      "bytes": 2768,
+      "sha256": "2e4918cc9041f276f5a1932a655c8f8f1bf48af5e3c48b49379f88010f9542f6"
+    },
+    {
+      "path": "json/最高人民法院关于仰海水与北京市鑫裕盛船舶管理有限公司之间是否为劳动合同关系的请示的复函(FBM-CLI.3.179625).json",
+      "bytes": 6002,
+      "sha256": "576b2a114bedf36e82bb488217258a76c0cac29e0805d5be510db1f7cfb3f965"
+    },
+    {
+      "path": "json/最高人民法院关于军队离退休干部腾退军产房纠纷法院是否受理的复函(FBM-CLI.3.11088).json",
+      "bytes": 2028,
+      "sha256": "669a5ff627be35b18fcd68183203712ba952a54086830e3968113c3f17674c7f"
+    },
+    {
+      "path": "json/最高人民法院关于判处劳役交社队执行的犯罪分子的劳动报酬问题的批复(FBM-CLI.3.175966).json",
+      "bytes": 4422,
+      "sha256": "65914c0722f92ae6885ff40c9122c14722f4bb0255b14147ccd8ebdad2332f7e"
+    },
+    {
+      "path": "json/最高人民法院关于劳务输出合同的担保纠纷人民法院应否受理问题的复函(FBM-CLI.3.11989).json",
+      "bytes": 3232,
+      "sha256": "5d82da9abf8ed7043fde18b380aca24fc065aaa95dc346dadbca046cd6f6154f"
+    },
+    {
+      "path": "json/最高人民法院关于劳动争议仲裁委员会的复议仲裁决定书可否作为执行依据问题的批复(FBM-CLI.3.15051).json",
+      "bytes": 3134,
+      "sha256": "13423ab202f24c3b9ccb01c0ef30b8a37900c2550d4578686e462f28f6a150a4"
+    },
+    {
+      "path": "json/最高人民法院关于劳动行政部门作出责令用人单位支付劳动者工资报酬、经济补偿和赔偿金的劳动监察指令书是否属于可申请法院强...(FBM-CLI.3.50063).json",
+      "bytes": 2826,
+      "sha256": "08ebed215798cba155daaf71cefcd1301ca57bcfc95c418c9691ad0bc7251e43"
+    },
+    {
+      "path": "json/最高人民法院关于因第三人造成工伤的职工或其亲属在获得民事赔偿后是否还可以获得工伤保险补偿问题的答复(FBM-CLI.3.141925).json",
+      "bytes": 2827,
+      "sha256": "bea0ae52416917669c395e9616c52d149e43f1a1fd2fe8a3c9160935154f3f1e"
+    },
+    {
+      "path": "json/最高人民法院关于国家工作人员利用职务上的便利为他人谋取利益离退休后收受财物行为如何处理问题的批复(FBM-CLI.3.30921).json",
+      "bytes": 2110,
+      "sha256": "274181ae9d9639d65b6c05ad63e67a640fc32899287a559ca99308fd444c7466"
+    },
+    {
+      "path": "json/最高人民法院关于在审理和执行民事、经济纠纷案件时不得查封、冻结和扣划社会保险基金的通知(FBM-CLI.3.27168).json",
+      "bytes": 3392,
+      "sha256": "e41c543fe34f3ec86dced0be1cf4fad2e801d86821d93dc1bd4bffc62f355139"
+    },
+    {
+      "path": "json/最高人民法院关于处理医疗事故案件不应判给经济补偿问题的批复(FBM-CLI.3.175961).json",
+      "bytes": 2003,
+      "sha256": "17319ca3b2663c92a8d2bc2fccdcfa4e8058e4f7efed993e9430ca1d62b437a7"
+    },
+    {
+      "path": "json/最高人民法院关于安徽省高级人民法院关于李向阳等十人与亳州市烟草专卖局劳动争议纠纷一案的请示的复函(FBM-CLI.3.141070).json",
+      "bytes": 5633,
+      "sha256": "9beaf00dc9520cb531973b6a2280c146fdaf248585ed01f1e6f3606c5bf3a444"
+    },
+    {
+      "path": "json/最高人民法院关于实行社会保险的企业破产后各种社会保险统筹费用应缴纳至何时问题的批复(FBM-CLI.3.17104).json",
+      "bytes": 1876,
+      "sha256": "b1590a058dd9b5c615ea1150e499fe7cdea720518789960adcf96bbc93c6110c"
+    },
+    {
+      "path": "json/最高人民法院关于审理劳动争议案件诉讼当事人问题的批复(FBM-CLI.3.4066).json",
+      "bytes": 2049,
+      "sha256": "f5398c22e410496b894ec7392e52fdd149696bd2fa73f51329c9557d43fc3d31"
+    },
+    {
+      "path": "json/最高人民法院关于审理劳动争议案件适用法律问题的解释(二)(FBM-CLI.3.5302729).json",
+      "bytes": 28950,
+      "sha256": "3306f440c12267b7afee2dad0c9ff3028e095fdd95fb946620d611ed98565ad3"
+    },
+    {
+      "path": "json/最高人民法院关于审理工伤保险行政案件若干问题的规定(FBM-CLI.3.231485).json",
+      "bytes": 17964,
+      "sha256": "3e8230b5dab393c367ce968be15f7db8d5131be2760f8afa69f001b4bd3b89ef"
+    },
+    {
+      "path": "json/最高人民法院关于审理拒不支付劳动报酬刑事案件适用法律若干问题的解释(FBM-CLI.3.193347).json",
+      "bytes": 14878,
+      "sha256": "75f9570a00d7813e08a4805f489143132899c801d6212a7e7aaca2812f057966"
+    },
+    {
+      "path": "json/最高人民法院关于对“统一第三人侵权工伤赔偿案件裁判标准”问题的答复(FBM-CLI.3.164495).json",
+      "bytes": 7571,
+      "sha256": "c6a8921fa1810d549ae6661db890db79de0519533b0cc7d0af48bc3ca9f37fa2"
+    },
+    {
+      "path": "json/最高人民法院关于强制执行住房公积金问题的答复(FBM-CLI.3.5131594).json",
+      "bytes": 2040,
+      "sha256": "497a61a7100e1ba1c791a7ec83dd824c8156ff7a2bfa6ef9a1ba716fd42bb166"
+    },
+    {
+      "path": "json/最高人民法院关于超过法定退休年龄的进城务工农民在工作时间内因公伤亡的，能否认定工伤的答复(FBM-CLI.3.228773).json",
+      "bytes": 2545,
+      "sha256": "6d0e45e53f203a31e067d9074d76993b7b61734b67294af43aff25719eb9dc07"
+    },
+    {
+      "path": "json/最高人民法院关于车辆实际所有人聘用的司机与挂靠单位之间是否形成事实劳动关系的答复(FBM-CLI.3.5078844).json",
+      "bytes": 2236,
+      "sha256": "4c9e7fe9ea5983ad638d2dee623055739322953d9afa57d986588a953789d6e1"
+    },
+    {
+      "path": "json/最高人民法院关于陈代煊不服福建省人力资源和社会保障厅颁发退休证请示一案的答复(FBM-CLI.3.5131341).json",
+      "bytes": 2282,
+      "sha256": "3f6a6e6fd0f43e9cf38c3eda8ced3b625f20ab004b9d9f8314f202b4bfcd2d3a"
+    },
+    {
+      "path": "json/最高人民法院关于雇员在雇佣活动中造成人身损害使用什么标准评定伤残的答复(FBM-CLI.3.5129683).json",
+      "bytes": 2488,
+      "sha256": "bbde27d9e3369db0ec539ebfe3012cf3461fd44041bf4638e3563ebc58b60562"
+    },
+    {
+      "path": "json/最高人民法院关于鱼俊智诉西安毛纺厂劳动争议申诉案的函(FBM-CLI.3.17078).json",
+      "bytes": 2212,
+      "sha256": "777a2e091f324cc7108a63923e0c25bed24504c2cbc262fc849e446f224e8762"
+    },
+    {
+      "path": "json/最高人民法院印发《关于当前形势下做好劳动争议纠纷案件审判工作的指导意见》的通知(FBM-CLI.3.119160).json",
+      "bytes": 21234,
+      "sha256": "ab451d7c859ced64edfa48e2bafab994c96b5a5c52d43a8fabf668285fa63732"
+    },
+    {
+      "path": "json/最高人民法院对“我国劳动合同法无固定期限劳动合同的离职补偿问题”的答复(FBM-CLI.3.353468).json",
+      "bytes": 6795,
+      "sha256": "f68153901ef11be77a825740511cceeb01c66c5d7da60d013c625d022c829d9b"
+    },
+    {
+      "path": "json/最高人民法院对人事争议仲裁委员会的仲裁行为是否可诉问题的答复(FBM-CLI.3.110697).json",
+      "bytes": 2547,
+      "sha256": "3dc90327ea75f7dec6bbaf7ebd17eda7bd0b7d71bcce172a78c0eefb910d3a14"
+    },
+    {
+      "path": "json/最高人民法院民一庭关于被挂靠单位与挂靠人聘用的司机之间是否具有劳动关系问题的请示答复(FBM-CLI.3.5129699).json",
+      "bytes": 2406,
+      "sha256": "270f35d87f46d4385e76980091262148ec463b97de80e194040f38a910a58241"
+    },
+    {
+      "path": "json/最高人民法院研究室关于执行程序中能否扣划离退休人员离休金退休金清偿其债务问题的答复(FBM-CLI.3.54690).json",
+      "bytes": 3026,
+      "sha256": "e438ced9ae36b79c890f0eafdb84574ae1f2bb8b30dd7e7d9dfac89fa7f82413"
+    },
+    {
+      "path": "json/最高人民法院研究室关于挪用退休职工社会养老金行为如何适用法律问题的复函(FBM-CLI.3.207374).json",
+      "bytes": 2311,
+      "sha256": "611c3d915015b038d86b9d4c7cf56b1da921afa60b20f5ca843a59829d688594"
+    },
+    {
+      "path": "json/最高人民法院研究室关于王某与某公司劳动争议纠纷申请再审一案适用法律问题的答复(FBM-CLI.3.214401).json",
+      "bytes": 2745,
+      "sha256": "04c0bbde7177f75edd3ba8926156b184c53f818cda067f26c28b0009b68dce67"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于《工伤保险条例》第六十四条理解和适用问题请示的答复(FBM-CLI.3.127511).json",
+      "bytes": 2125,
+      "sha256": "65e79717dec39a2859ea524efee4e66c0a3638add203b6e8ee8cbd03d67f5a13"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于劳动行政部门在工伤认定程序中是否具有劳动关系确认权请示的答复(FBM-CLI.3.127510).json",
+      "bytes": 2091,
+      "sha256": "84605a25676e6fa07cb42dea634a49f55105db0662bf94a5589e672acd22d56e"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于劳动行政部门是否有权作出强制企业支付工伤职工医疗费用的决定的答复(FBM-CLI.3.50095).json",
+      "bytes": 1872,
+      "sha256": "13d2ca6dfa3ac4154bb29bd0a58ef791af68f1ef434265874459e8c889dd4867"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于如何适用＜工伤保险条例＞第十四条第(六)项及第十六条第(一)项如何理解的答复(FBM-CLI.3.222039).json",
+      "bytes": 2481,
+      "sha256": "51734c8244369b514da0b9020044ea3f2beb794fd5dcd034bc90c5b90dcc6ec7"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于工伤保险条例时间效力问题的答复(FBM-CLI.3.222037).json",
+      "bytes": 2621,
+      "sha256": "356e08f18130bfd134edf420a2bba1ade481c4b3e4d1f433834e126bd78b3158"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于拖欠社会保险基金纠纷是否由法院主管的答复(FBM-CLI.3.50060).json",
+      "bytes": 2692,
+      "sha256": "251a8f5e69e008967e03007632962b543f4300293e1ec770d250df9c27648fbe"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于河南省高级人民法院就《焦作爱依斯万方公司诉焦作市劳动局工伤认定案件的请示》的电话答复(FBM-CLI.3.110693).json",
+      "bytes": 2287,
+      "sha256": "ead9ab4862b9d59c4992acd5e5cf1f5bcd20b447fce1adbd33883b35b2df87aa"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于离退休人员与现工作单位之间是否构成劳动关系以及工作时间内受伤是否适用《工伤保险条例》问题的答复(FBM-CLI.3.127514).json",
+      "bytes": 25632,
+      "sha256": "4f58235996a688ea793809d8050d48bcc7911106829552fe5b060384c0d4a15f"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于职工因公外出期间死因不明应否认定工伤的答复(FBM-CLI.3.176473).json",
+      "bytes": 2171,
+      "sha256": "37816d50d8881be966c77ae9e8cfb96ea9f5b6924a1880e9f0b971682ccdfe10"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于职工在上下班途中因无证驾驶机动车导致伤亡的，应否认定为工伤问题的答复(FBM-CLI.3.208851).json",
+      "bytes": 2187,
+      "sha256": "a4bbfcc68176733ffdb452b17617fcdba21b0e651c87013a137988d8e6610a7c"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于职工外出学习休息期间受到他人伤害应否认定为工伤问题的答复(FBM-CLI.3.127513).json",
+      "bytes": 2031,
+      "sha256": "9940dfa4d319b473c6a1eb3e90b00d78f4d085c55f3d2d61568a339cc0a8324e"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于职工无照驾驶无证车辆在上班途中受到机动车伤害死亡能否认定工伤请示的答复(FBM-CLI.3.176475).json",
+      "bytes": 2307,
+      "sha256": "c4dcf7329173740dd3b30aa46ebfea40c4aaf0c8ea6a94a78ee8e48a9257472c"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于超过法定退休年龄的进城务工农民因工伤亡的，应否适用《工伤保险条例》请示的答复(FBM-CLI.3.142016).json",
+      "bytes": 2199,
+      "sha256": "2deec0f5fb4702b94ca2f63076134097736419676e7c28d784a28f0296a47864"
+    },
+    {
+      "path": "json/最高人民法院行政审判庭关于非因工作原因对遇险者实施救助导致死亡的情形是否认定工伤问题的答复(FBM-CLI.3.345626).json",
+      "bytes": 2573,
+      "sha256": "bdb65e675dc5f5e33b43ed0f4e0e58271d3ed3136979d6da1b003bd6f8d1885f"
+    },
+    {
+      "path": "json/残疾人就业条例(FBM-CLI.2.89006).json",
+      "bytes": 19342,
+      "sha256": "d9676740b674ac259ccadc35848a3516a91512038d5712d94a049bb10de8e6c5"
+    },
+    {
+      "path": "json/社会保险经办条例(FBM-CLI.2.5175310).json",
+      "bytes": 46146,
+      "sha256": "969f87c2a85f5978c46f33480e7eecb93b9497b648b8b1be941608f1b62e9c91"
+    },
+    {
+      "path": "json/社会保险费征缴暂行条例(2019修订)(FBM-CLI.2.331369).json",
+      "bytes": 23252,
+      "sha256": "c2634bd4fd91fef448588d10248bb8c43ec0ec60bc1b58911043d51a0c7a66ac"
+    },
+    {
+      "path": "json/职工带薪年休假条例(FBM-CLI.2.100312).json",
+      "bytes": 10032,
+      "sha256": "b8b7f9e898e4d1696a5828ae4631b95bc2ffba6fc832b59d8c5cf859c860b8c1"
+    },
+    {
+      "path": "json/退役军人就业创业促进条例(FBM-CLI.2.5346922).json",
+      "bytes": 33535,
+      "sha256": "40749e14a194a990aa2ef8a318346a59f926ac9f757122627632c20dbd08ec4d"
+    },
+    {
+      "path": "json_cases/50001.json",
+      "bytes": 32667,
+      "sha256": "d29a210c948efae6c21384723d8a0146e79eb29d21329fffbac426099d4bfe29"
+    },
+    {
+      "path": "json_cases/50002.json",
+      "bytes": 68524,
+      "sha256": "79637e848f983a58fa5d5c5dc4fbe58c66ccfa2e7c2088da29edfd6dee63e72e"
+    },
+    {
+      "path": "json_cases/50003.json",
+      "bytes": 32076,
+      "sha256": "999e0b7487291d35e3af9e755333d928d32d33f94bb7e51ef9cb8b3374bb918f"
+    },
+    {
+      "path": "json_cases/50004.json",
+      "bytes": 22281,
+      "sha256": "23ad22e321943fc50de2e504deae1ae27bf22be4528286ddb9471c1763e4c9c8"
+    },
+    {
+      "path": "json_cases/50005.json",
+      "bytes": 19414,
+      "sha256": "bf64789dda68abeac7f34b96581b52f706efc78723706ff22921ff837eb0006a"
+    },
+    {
+      "path": "json_cases/50006.json",
+      "bytes": 6985,
+      "sha256": "308e47b9c0404f90d58155ab4f452eadfecdff42072417bddd324a4a0550320d"
+    },
+    {
+      "path": "json_cases/50007.json",
+      "bytes": 43239,
+      "sha256": "b08ba0f4fcd3810c01a3e974c45413fbb2e0d8d98c176735d94572d5aa2ca7fc"
+    },
+    {
+      "path": "json_cases/50008.json",
+      "bytes": 30908,
+      "sha256": "f86409c05aae7e31b0cd756d05b33d9ff525dc3e9d26c533fb7f13855448601a"
+    },
+    {
+      "path": "json_cases/50009.json",
+      "bytes": 25115,
+      "sha256": "5b6ccdc41262fbb861e8861bed3036e1a230fccae9e3695ab95940e88a2c489e"
+    },
+    {
+      "path": "json_cases/50010.json",
+      "bytes": 37633,
+      "sha256": "b5380b1e5d100b12b5509c5bc2e8f085f80c32605dd6c068a92011c5505a847e"
+    },
+    {
+      "path": "json_cases/50011.json",
+      "bytes": 40091,
+      "sha256": "010b4f149acf8282c7c1cf75e73f1413ff1b72890522cbed1e364330e360e3c2"
+    },
+    {
+      "path": "json_cases/50012.json",
+      "bytes": 57407,
+      "sha256": "4d74e67f131b08ef5a6c4646f52ee6106fbb8c50dbc128529e484bd092177213"
+    },
+    {
+      "path": "json_cases/50013.json",
+      "bytes": 19868,
+      "sha256": "580e177dea2cde21650eb604fc69adc14139a29ed284e9729eda7e0ba60d4e7b"
+    },
+    {
+      "path": "json_cases/50014.json",
+      "bytes": 15647,
+      "sha256": "29534c4ee46304a2a1b587ab42dfbf3605619c07ca62c0d73cad1f06bad3c50b"
+    },
+    {
+      "path": "json_cases/50015.json",
+      "bytes": 39092,
+      "sha256": "376bc2c86b1722f29164251293dd09c6962a681e730a182c8f1006f9bb399db1"
+    },
+    {
+      "path": "json_cases/50016.json",
+      "bytes": 97040,
+      "sha256": "5f415ae5cfefa909d6b0aabc8960c2ca35ca591e5723cae26f4f03b1f730098e"
+    },
+    {
+      "path": "json_cases/50017.json",
+      "bytes": 48703,
+      "sha256": "3643c52dd77b79b729f70cfdb2c5da0d5b33fa29746e6b4b9b5f2456a5b87a91"
+    },
+    {
+      "path": "json_cases/50018.json",
+      "bytes": 24737,
+      "sha256": "0f4f6892f816f8900368660e94a339195bdff55ba43beeb36a92b2ea4b7e405f"
+    },
+    {
+      "path": "json_cases/50019.json",
+      "bytes": 34053,
+      "sha256": "7990c910eb438b7c17ea947a3741f90758d71f3cfd824984915746b77c13c124"
+    },
+    {
+      "path": "json_cases/50020.json",
+      "bytes": 82916,
+      "sha256": "1e922cd6718e72f0c5445d705397f67ad5f337b88f1d94f697ab6dc653d46a24"
+    },
+    {
+      "path": "json_cases/50021.json",
+      "bytes": 82495,
+      "sha256": "21b54a021e066df6f1cb2e165f89b1c767ffcbfaa414e977d043cd066e9c882d"
+    },
+    {
+      "path": "json_cases/50022.json",
+      "bytes": 41949,
+      "sha256": "161a88485412d918158d8dfd684a20f4dd740fd78431c94960ed325b0285d241"
+    },
+    {
+      "path": "json_cases/50023.json",
+      "bytes": 47804,
+      "sha256": "10a28d6de7b38f1fa1d66221b3326edd80f543ae7433945229814e63f6d17b09"
+    },
+    {
+      "path": "json_cases/50024.json",
+      "bytes": 52221,
+      "sha256": "f8868a68cefd6c7c8cef43b436b78a8af12dda6af5a69a6b374cb82568cff66c"
+    },
+    {
+      "path": "json_cases/50025.json",
+      "bytes": 21228,
+      "sha256": "cea8b441519fca114c1eaf9f094f4e250d78c589f7a52e8f036961b17e21f1a7"
+    },
+    {
+      "path": "json_cases/50026.json",
+      "bytes": 23531,
+      "sha256": "db335e7bd876b9180e70df1656e0563c486dcebd79f60ab4611a8da994a3eef7"
+    },
+    {
+      "path": "json_cases/50027.json",
+      "bytes": 47937,
+      "sha256": "391a9b7d70bd2d37a1704d200fcdc2f4ed1e0c0350969e72e1a8434a8ed8daae"
+    },
+    {
+      "path": "json_cases/50028.json",
+      "bytes": 18095,
+      "sha256": "737abd199ac99d6acca4218b5c1805c0a513b4dbe83f7b99f86817233d4c5427"
+    },
+    {
+      "path": "json_cases/50029.json",
+      "bytes": 37523,
+      "sha256": "5f2bde31fe1f3a984185d334e1e8a061b8b5b9de31d2769ed09f45462048f076"
+    },
+    {
+      "path": "json_cases/50030.json",
+      "bytes": 9905,
+      "sha256": "48b509f86828816212c9bbc53eb0762575f9bc6b2c629693e6455e20f16f2a70"
+    },
+    {
+      "path": "json_cases/50031.json",
+      "bytes": 55645,
+      "sha256": "bf2abb2a434152000cfdb0a6a34d71a3fe0a5aac397246193c70ccf8929b6469"
+    },
+    {
+      "path": "json_cases/50032.json",
+      "bytes": 25501,
+      "sha256": "b1d983251318cfda1bc7907e06d11834113d4e4bc6b400deddf14257a1f1c70a"
+    },
+    {
+      "path": "json_cases/50033.json",
+      "bytes": 27815,
+      "sha256": "b3077fb301c6879767e7b3aa7d7eb88c3267b47f8946e661fe495901f25a6c77"
+    },
+    {
+      "path": "json_cases/50034.json",
+      "bytes": 25146,
+      "sha256": "0659b13cdd149fc063218b2ebb6c3e8b65538568bbad9ec2da0d89e6c85bff4d"
+    },
+    {
+      "path": "json_cases/50035.json",
+      "bytes": 16887,
+      "sha256": "ff3d580106acdffe9d9b7c86d9a4de5bbc38355255b0e77b013dfa5c6fe6b41f"
+    },
+    {
+      "path": "json_cases/50036.json",
+      "bytes": 171907,
+      "sha256": "8ee034ac82433073bca8e373f8fa681a193fa98e9a18f63c8b225e6b37582e45"
+    },
+    {
+      "path": "json_cases/50037.json",
+      "bytes": 97190,
+      "sha256": "d402b4a68929c1af04cf69de14b2a3bb6c6acc543b0511b06faf80908941af3d"
+    },
+    {
+      "path": "json_cases/50038.json",
+      "bytes": 25928,
+      "sha256": "5c4a0673b7b83b56b9531256182fd8b32c097988cdacad43ec7682611f7b9bb3"
+    },
+    {
+      "path": "json_cases/50039.json",
+      "bytes": 23254,
+      "sha256": "21abbf7d94546ce1e9cd15345fad0b6ff4cc0e3631b2662f461274974a3c267e"
+    },
+    {
+      "path": "json_cases/50040.json",
+      "bytes": 23428,
+      "sha256": "6e944a460c7347f662e73942e4184d6451010fccac6db4491128a788bbf2b6a3"
+    },
+    {
+      "path": "json_cases/50041.json",
+      "bytes": 32014,
+      "sha256": "1a327c88ae401ebdfa191f6c33f8d2932bcecee37b7efcff0b8492b6a3c34c29"
+    },
+    {
+      "path": "json_cases/50042.json",
+      "bytes": 23994,
+      "sha256": "7d04bccbbefd318208c12d360e9e9c8a154acefad9fb3bc6f07a7c7a73b2ae93"
+    },
+    {
+      "path": "json_cases/50043.json",
+      "bytes": 43343,
+      "sha256": "229556040bc4423281a5e1d08257bbe85bdb65f124d8a8bc65fcc722547b7476"
+    },
+    {
+      "path": "json_cases/50044.json",
+      "bytes": 38259,
+      "sha256": "391a4f1ac8321d704bc740482b25e5524379fb6b4d9ef2a99b863ec88376e622"
+    },
+    {
+      "path": "json_cases/50045.json",
+      "bytes": 39442,
+      "sha256": "00205ea83c528c0f658b155d87bac4b5f521836630b8fa7c64b63b7f2e5facc8"
+    },
+    {
+      "path": "json_cases/50046.json",
+      "bytes": 46952,
+      "sha256": "b2ae451bff80a8456ac49b1949a63a30089a4ce62903678a6fb2cc59f3193fd0"
+    },
+    {
+      "path": "json_cases/50047.json",
+      "bytes": 45138,
+      "sha256": "27673868688031587905227ecb1e8085ca6bbab207c4e863ee1a5b9b76e9554b"
+    },
+    {
+      "path": "json_cases/50048.json",
+      "bytes": 27612,
+      "sha256": "ed529b58e609cc6ad1fd5935fceae97332da99dd5fce44ffd02875756f96d98f"
+    },
+    {
+      "path": "json_cases/50049.json",
+      "bytes": 26894,
+      "sha256": "3ca248da985b1f6bf03d025090082c6e58a9bd255181ddbb97c00739b2c8e457"
+    },
+    {
+      "path": "json_cases/50050.json",
+      "bytes": 54547,
+      "sha256": "37d0d70fd66f66a697e5f745adc2650ea4e3572c4b5fb0321f9040e2562a7ea1"
+    },
+    {
+      "path": "json_cases/50051.json",
+      "bytes": 31884,
+      "sha256": "56563b3adc2d2676c95f5f6da3e0dac8789767bad747598f1d511976a9af301f"
+    },
+    {
+      "path": "json_cases/50052.json",
+      "bytes": 20155,
+      "sha256": "0e404270f267afa5d0092735f8e6d048fd870cb9539de459237ab4dcddf16803"
+    },
+    {
+      "path": "json_cases/50053.json",
+      "bytes": 29350,
+      "sha256": "fe8d8614a0ad54cd626d965d7acc89a3b322a029810587c79457ad55be1f9456"
+    },
+    {
+      "path": "json_cases/50054.json",
+      "bytes": 5659,
+      "sha256": "a917559ab9fa608bfba91195c4db040c8fcb0145bc01e62ed3bbbf4da8558970"
+    },
+    {
+      "path": "json_cases/50055.json",
+      "bytes": 6251,
+      "sha256": "c1c7fe1e3c845ba12a97e526a0a2cda8ef92342b784e26e8feadd62d9b8f9ae6"
+    },
+    {
+      "path": "json_cases/50056.json",
+      "bytes": 5772,
+      "sha256": "67a9c0f7b6103e0dcef4014cb1c0c2aa96468ca021ba9d5622464a9f2789cd3e"
+    },
+    {
+      "path": "json_cases/50057.json",
+      "bytes": 6610,
+      "sha256": "6add46f4292c9ef58b23cf9a1890cc95211ede05e5c70ebf87f5db98e58cabe5"
+    },
+    {
+      "path": "json_cases/50058.json",
+      "bytes": 22585,
+      "sha256": "685de6f880cb6197da0b5dd6e9b37be2c343e68f9511730bdc803b47ed277458"
+    },
+    {
+      "path": "json_cases/50059.json",
+      "bytes": 23089,
+      "sha256": "b375500cd845fdb860b632b205e7b84c6fe6c320b4641c1b51fe7a84d4a38c20"
+    },
+    {
+      "path": "json_cases/50060.json",
+      "bytes": 20778,
+      "sha256": "9218612a9587a627204e91c31afbff02440c77771ba948659c3726fe55be4850"
+    },
+    {
+      "path": "json_cases/50061.json",
+      "bytes": 72297,
+      "sha256": "e8ee372a607eb87599a6d871f91e27b6caeeb8351220666f82f3432a0fe5252b"
+    },
+    {
+      "path": "json_cases/50062.json",
+      "bytes": 72849,
+      "sha256": "c3ca8840001a7db5046f375d5fa82c2dc980cb583e0444b0bd958625a94c23e3"
+    },
+    {
+      "path": "json_cases/50063.json",
+      "bytes": 91545,
+      "sha256": "62dc96ed1650969ce2ffd9e8e7a179bcc8375f3e9ae58e8abad3a0691e6c3bdd"
+    },
+    {
+      "path": "json_cases/50064.json",
+      "bytes": 77248,
+      "sha256": "05b3bc782b26615e075e39746d8c823954381e2f4e43393da8e57c415a4da7c0"
+    },
+    {
+      "path": "json_cases/50065.json",
+      "bytes": 73415,
+      "sha256": "743d05ae2da7afa5fba35de76f6b70246b3a3844f9a7c3c7c6a6a96b1e04b7ee"
+    },
+    {
+      "path": "json_cases/50066.json",
+      "bytes": 25201,
+      "sha256": "b4cd019c6c86d928e729660310f45e1cc64fc51dda522c5d254037e5fbb1ff86"
+    },
+    {
+      "path": "json_cases/50067.json",
+      "bytes": 30778,
+      "sha256": "4d7bd24bc2db91240e2c013c2f0d4f7f173362158a650538c240bbbf1f7dd164"
+    },
+    {
+      "path": "json_cases/50068.json",
+      "bytes": 18297,
+      "sha256": "a92933f9a6071ac0a057656e7eeef42aaf75db9ed8eedfb3fe7f743327dd4bab"
+    },
+    {
+      "path": "json_cases/50069.json",
+      "bytes": 22105,
+      "sha256": "583287fa02f5d3e6109f4fe99627182d71c943688e6443fa18a1c1705601e0eb"
+    },
+    {
+      "path": "json_cases/50070.json",
+      "bytes": 24319,
+      "sha256": "af3852317c770c9974b4874347d7900528e3835e81bbaa2af4adb8c26ac53bf1"
+    },
+    {
+      "path": "json_cases/50071.json",
+      "bytes": 19713,
+      "sha256": "31058a756139a9b4af3319d840f688c32b5760bf87b81e67807b23b1053c4a22"
+    },
+    {
+      "path": "json_cases/50072.json",
+      "bytes": 20934,
+      "sha256": "3a5795abd932e09ff8564d1620e3dfc1727852cff41273bcd21acdc44d114a5d"
+    },
+    {
+      "path": "json_cases/50073.json",
+      "bytes": 10226,
+      "sha256": "c27bdfb2f0e715567bd0ca48f8cc2427f99f4b2a9a3c9c18642429e892649c10"
+    },
+    {
+      "path": "json_cases/50074.json",
+      "bytes": 28393,
+      "sha256": "583435424f7dab17f4d0431ebfd9462ec93ae3d8b81bf25fff398dc1bd5f0cc7"
+    },
+    {
+      "path": "json_cases/50075.json",
+      "bytes": 22359,
+      "sha256": "f2dc807ecee75a9db6c3d90ae6d8ab3ddbb9c14cb96afa7a6f4e85003504c840"
+    },
+    {
+      "path": "json_cases/50076.json",
+      "bytes": 45565,
+      "sha256": "da9be3cdb469fb5b2a03730f9c701850f1654fa280812b13cf65cbd35771ff58"
+    },
+    {
+      "path": "json_cases/50077.json",
+      "bytes": 40219,
+      "sha256": "4db42d44991b7475c63ab33b5d084b45fc976fefb8c45d33c72bc1c0a79374ba"
+    },
+    {
+      "path": "json_cases/50078.json",
+      "bytes": 23022,
+      "sha256": "29f061fcad857fae1ee33874958aa205d86405d0427c282dd0ecef3fba987048"
+    },
+    {
+      "path": "json_cases/50079.json",
+      "bytes": 23175,
+      "sha256": "8b069b60bfe9c45b2dddf836360365f621ade499e6e2fa2bd247aa4507827f74"
+    },
+    {
+      "path": "json_cases/50080.json",
+      "bytes": 22621,
+      "sha256": "580fc40bfbeddb0b29fcc63a49dcc3572a9957d63d8324423d6b1c5fcb516a17"
+    },
+    {
+      "path": "json_cases/50081.json",
+      "bytes": 21961,
+      "sha256": "a5859b7fc2d07506ff36600c4eccbf54a5c3dd7a8b3021e41c2470552f69c255"
+    },
+    {
+      "path": "json_cases/50082.json",
+      "bytes": 24241,
+      "sha256": "118ab6c435737f50c331856e2a23634f0c6f0cbf848f2fd5e3c2d36adda9a282"
+    },
+    {
+      "path": "json_cases/50083.json",
+      "bytes": 32383,
+      "sha256": "0fb002e3e4327360e38564e69891c486952421ec22a6053d5f427ae66463c19b"
+    },
+    {
+      "path": "json_cases/50084.json",
+      "bytes": 21527,
+      "sha256": "f59f18f0df75db7d592817186ba0e3f702b3781ba40309ebb8ddbf38061668be"
+    },
+    {
+      "path": "json_cases/50085.json",
+      "bytes": 17428,
+      "sha256": "e4445c86db960c05279cd73d7abcae777de34e406f631b6472047bc0a47b2fa1"
+    },
+    {
+      "path": "json_cases/50086.json",
+      "bytes": 33763,
+      "sha256": "fddba5ad9082b85f692f94c20e68ad036f63c75fc33cc7ebf8b3e5883afae256"
+    },
+    {
+      "path": "json_cases/50087.json",
+      "bytes": 53371,
+      "sha256": "6be8eb2a4d5d9d344a649120a29f3c49522bf8cd9fe0d1829569c7b8d09ed3c8"
+    },
+    {
+      "path": "json_cases/50088.json",
+      "bytes": 21895,
+      "sha256": "0870a6e326613b5bb225d1d12b22fcd497e33a07b1a420a6e1a5d3f46234f1eb"
+    },
+    {
+      "path": "json_cases/50089.json",
+      "bytes": 42119,
+      "sha256": "2a62afbdf1815db5dad1240ddc989f094cdecafdf3fac806e1190bab5b156cc8"
+    },
+    {
+      "path": "json_cases/50090.json",
+      "bytes": 46204,
+      "sha256": "615282ea7d7b3115c14698e7cca4a65e329ff376d6a2d9d8f3121b07e3ead109"
+    },
+    {
+      "path": "json_cases/50091.json",
+      "bytes": 81849,
+      "sha256": "b696e9b0534fc57de7b98e3396a3dfbbeacc4ebbd7606de1e811b52ed011c9e8"
+    },
+    {
+      "path": "json_cases/50092.json",
+      "bytes": 30470,
+      "sha256": "c4ca34512e34be8b5080a85ed8d56ddab954663bb2238248bca6af308e6fcaf7"
+    },
+    {
+      "path": "json_cases/50093.json",
+      "bytes": 72244,
+      "sha256": "64b20aa22e053aee8e44c50e76f0a4cd8e8e4eb0dcf944c40438ebf0c90f1084"
+    },
+    {
+      "path": "json_cases/50094.json",
+      "bytes": 21158,
+      "sha256": "431e4827b0eb808b97133f94db913140a97159b0f0c9f10a717ef35805307306"
+    },
+    {
+      "path": "json_cases/50095.json",
+      "bytes": 23306,
+      "sha256": "514ee7c41f5f14b3e3a784465a8e491f6161ca41fd308acb2443b4fdb3bf93b7"
+    },
+    {
+      "path": "json_cases/50096.json",
+      "bytes": 22621,
+      "sha256": "a75a82b2a339e7510ac47c56a01b6e02257b33899d7236d3b45d265aabb992db"
+    },
+    {
+      "path": "json_cases/50097.json",
+      "bytes": 60141,
+      "sha256": "d7177d8b889c45ba631baff9ea3332b71068a856a69fe0163d47d6129ef4d7ba"
+    },
+    {
+      "path": "json_cases/50098.json",
+      "bytes": 17051,
+      "sha256": "9b356449a0dd41c1b30bc54295bb0615c808ca5188300598743d1818dbadb1fd"
+    },
+    {
+      "path": "json_cases/50099.json",
+      "bytes": 35016,
+      "sha256": "a89bd00c7fcbef4341056f5b332b25f73b311ee4cde1b91852c77358a8724365"
+    },
+    {
+      "path": "json_cases/50100.json",
+      "bytes": 68359,
+      "sha256": "f31d69aabab79a41b7a58d967ca01b61c396294b115720fbdc7baa46afacb7b0"
+    },
+    {
+      "path": "json_cases/50101.json",
+      "bytes": 33754,
+      "sha256": "ec1dd267cdc6b65dfe9d9cf9f4b61a640c975aaaaf258e28b4362fafa4fc06e9"
+    },
+    {
+      "path": "json_cases/50102.json",
+      "bytes": 64860,
+      "sha256": "320cc2914acb59abbb3821b9f34092f77105047a2307d34856e062bf84ef106a"
+    },
+    {
+      "path": "json_cases/50103.json",
+      "bytes": 57078,
+      "sha256": "1b02da02320f15eb1d169051d730f6d362879a3ccd59a7cde8c350f0aa7c1013"
+    },
+    {
+      "path": "json_cases/50104.json",
+      "bytes": 37970,
+      "sha256": "10823d19e3e845d5e57e944d89e4f37ee28defbbbba8d9796e7bdf0236158a62"
+    },
+    {
+      "path": "json_cases/50105.json",
+      "bytes": 22738,
+      "sha256": "de7ae1b0d25a2b4c997436537b072fe96f3f5d74a37d120839d4989db73b4886"
+    },
+    {
+      "path": "json_cases/50106.json",
+      "bytes": 59852,
+      "sha256": "324ac035ee1afc9e185021f1eaf374b4ee2b2e0879125a23fea6e10aca4a9dca"
+    },
+    {
+      "path": "json_cases/50107.json",
+      "bytes": 34295,
+      "sha256": "614e1159b66f8ec64defa96b4e2445fb05d4c17179a7c9e542238427e5a96bb9"
+    },
+    {
+      "path": "json_cases/50108.json",
+      "bytes": 15875,
+      "sha256": "71a27a350c5ced7fe474b9f95871f3c2023922e171361660f55ac2a62888cfc9"
+    },
+    {
+      "path": "json_cases/50109.json",
+      "bytes": 17297,
+      "sha256": "5ef6aa1137484447e745f27d2bfc7eeab0776d1eefa44e64c1c5d03ccc797c57"
+    },
+    {
+      "path": "json_cases/50110.json",
+      "bytes": 28581,
+      "sha256": "91c7c76dc28f258bf93738c323d61cd59b9cbd0149aed1f904021944ab29b915"
+    },
+    {
+      "path": "json_cases/50111.json",
+      "bytes": 8707,
+      "sha256": "fd148af6322a39068854857a5b9cd4a615adb8ee5b9a2910216b5cfcb4645c56"
+    },
+    {
+      "path": "json_cases/50112.json",
+      "bytes": 10309,
+      "sha256": "a619a804b539ae71c1562a30e821e1e17eff2096daa0e356eaac8ffae2d24a9d"
+    },
+    {
+      "path": "json_cases/50113.json",
+      "bytes": 70855,
+      "sha256": "734a704d4368b435f05441fe584d8d901c8b319b503416e2c3c96767836b3ee7"
+    },
+    {
+      "path": "json_cases/50114.json",
+      "bytes": 4940,
+      "sha256": "16130b60c73497e5e725cac2f46cfa4b1b6ebee961a58fb23129aaf3de229da1"
+    },
+    {
+      "path": "json_cases/50115.json",
+      "bytes": 23937,
+      "sha256": "3a54be236ff2e9b2806880370923c00fd331f57930c185fd339d70bb90d12efc"
+    },
+    {
+      "path": "json_cases/50116.json",
+      "bytes": 13744,
+      "sha256": "025c50f84ad6abc396ad87a08d591aa52a71ca7bdfb8a678675a2424f80b90e7"
+    },
+    {
+      "path": "json_cases/50117.json",
+      "bytes": 18990,
+      "sha256": "4c8d86ab10da40be6e5e2b7e196f191f26c8f821b35550fe1dafef608b2b5bef"
+    },
+    {
+      "path": "json_cases/50118.json",
+      "bytes": 47039,
+      "sha256": "75d1e7dac256995f6161392452efeb1a35d1a279e8edcccb987902046d2785aa"
+    },
+    {
+      "path": "json_cases/50119.json",
+      "bytes": 22152,
+      "sha256": "1997b99b319715cdf40f5882daad217b98a3909698f5ac6b35b920b06f247a25"
+    },
+    {
+      "path": "json_cases/50120.json",
+      "bytes": 20619,
+      "sha256": "9a8f24d5dde055bc022f1d849826c2e70c33f6d349572bd6d2932b995628f6ee"
+    },
+    {
+      "path": "json_cases/50121.json",
+      "bytes": 18024,
+      "sha256": "069858fdabb52b88e8ee76465cfee9240ab0c16fecd2e968ff8a6c5ab1ce6de1"
+    },
+    {
+      "path": "json_cases/50122.json",
+      "bytes": 43235,
+      "sha256": "a226f99ee9c3f20ff263f59943225696ebbe621b042968cab882ea3fe6ba1def"
+    },
+    {
+      "path": "json_cases/50123.json",
+      "bytes": 43074,
+      "sha256": "20482a279515123f319bcf886bd7c38143df806d6c5fe4ff515e2cbcf406ae98"
+    },
+    {
+      "path": "json_cases/50124.json",
+      "bytes": 39302,
+      "sha256": "186a353257db0c9ee1695b5735ac44544be2b0d81a6cc1ead50427c03bf0e4d1"
+    },
+    {
+      "path": "json_cases/50125.json",
+      "bytes": 43517,
+      "sha256": "4714b950133295dca8d0cb842da1f89a015cd2c4750d93ab61d16d6a13cfeb80"
+    },
+    {
+      "path": "json_cases/50126.json",
+      "bytes": 25189,
+      "sha256": "be5ef4d223163f6148165ef499b399caa2993d18305ab7a825124f3ede46ee6d"
+    },
+    {
+      "path": "json_cases/50127.json",
+      "bytes": 19739,
+      "sha256": "d2463f191815b767ceb6919f4fc49848f3ed907265242361274b849f8052c22b"
+    },
+    {
+      "path": "json_cases/50128.json",
+      "bytes": 26863,
+      "sha256": "19e4d5cf4b6e9593868ae357d347335f46c061a532f2e2ba2f62453f8e64246c"
+    },
+    {
+      "path": "json_cases/50129.json",
+      "bytes": 35178,
+      "sha256": "b5f895d5018ccdb6fc214aaabcbd3f6e6c3365e42954364b5e117ed2c8331a8b"
+    },
+    {
+      "path": "json_cases/50130.json",
+      "bytes": 30957,
+      "sha256": "fc78c622a49a6980fda07b8a2b11729800d5d8e32949d2cf2edc6c49bc20ba43"
+    },
+    {
+      "path": "json_cases/50131.json",
+      "bytes": 36698,
+      "sha256": "432bf38c1f4dbb078b18edb2e3e5afa26af2269c86891e1b1bb12c5050453245"
+    },
+    {
+      "path": "json_cases/50132.json",
+      "bytes": 50529,
+      "sha256": "517fd2e92655eb54f48a01f90cac8a3c7978395f1633377d0479cd0b37a248c1"
+    },
+    {
+      "path": "json_cases/50133.json",
+      "bytes": 16361,
+      "sha256": "c7bd887abf9dd967a9a3b631b3afdee61cd3f2df8d8a8570976d8e45d5a99a88"
+    },
+    {
+      "path": "json_cases/50134.json",
+      "bytes": 28582,
+      "sha256": "f9eefedd8bb016291be4d988a1c56cef7c5a87ccd253214c1a6e1184d2680b68"
+    },
+    {
+      "path": "json_cases/50135.json",
+      "bytes": 31766,
+      "sha256": "cd179fe5ba17e04eb1b503ce068ae699534249e608b195da6017d39625c7b3d2"
+    },
+    {
+      "path": "json_cases/50136.json",
+      "bytes": 21334,
+      "sha256": "796c975f86dbd64f02a7b4ac730dcdd941ef52772f200f501c299a19f3f1515a"
+    },
+    {
+      "path": "json_cases/50137.json",
+      "bytes": 28610,
+      "sha256": "97da8e834343b0ac22497810316412687541140e707148410ebe5959f3c14307"
+    },
+    {
+      "path": "json_cases/50138.json",
+      "bytes": 40928,
+      "sha256": "2ff47daba44b90f0f21232c5e66a00226f25dd39cee25f990680a91815ac42ff"
+    },
+    {
+      "path": "json_cases/50139.json",
+      "bytes": 73552,
+      "sha256": "08e332f8a7d265e938e7e4ef232ddc96389ea5c8a536f1daa5525b1182cbbe54"
+    },
+    {
+      "path": "json_cases/50140.json",
+      "bytes": 35652,
+      "sha256": "0cd5bad96fb792edd91c0415b8cd97b3bf94611692a84bc545ba414c7b2d22f6"
+    },
+    {
+      "path": "json_cases/50141.json",
+      "bytes": 42149,
+      "sha256": "fdc44dfb8fdde7875e2adf6ea6b923e1311144dbbb3f47a18f569649240844d8"
+    },
+    {
+      "path": "json_cases/50142.json",
+      "bytes": 28344,
+      "sha256": "9a9550bc55f4f8c9bda11be45527c0231e1216a00bafbcee3c84474c107134d0"
+    },
+    {
+      "path": "json_cases/50143.json",
+      "bytes": 34074,
+      "sha256": "6992488c878564ebfcc2e7ab93588b799400789334e85659224b12c696bcef8b"
+    },
+    {
+      "path": "json_cases/50144.json",
+      "bytes": 39681,
+      "sha256": "97d83ce89b2582fa7fda5a754d46a8357e04af3a5bed8394bc45610cd052e765"
+    },
+    {
+      "path": "json_cases/50145.json",
+      "bytes": 27615,
+      "sha256": "9c3f11e31a2541aa72f36eb9ae5c4ede557fea1afb13860f293433c8d1c61cd6"
+    },
+    {
+      "path": "json_cases/50146.json",
+      "bytes": 34043,
+      "sha256": "aff5848740e772933e10fb19eb550457faa29f17b1b0d070c5c909dc7e9c89e7"
+    },
+    {
+      "path": "json_cases/50147.json",
+      "bytes": 21123,
+      "sha256": "12c5ff85bc6560aefb37b760e67d5c6e1e5528f65f5b4c8c9dd22524ea07f0d9"
+    },
+    {
+      "path": "json_cases/50148.json",
+      "bytes": 39721,
+      "sha256": "72712bda346616195a12181ff4d22fe56907ecb12febd4524c18e2f96ad83586"
+    },
+    {
+      "path": "json_cases/50149.json",
+      "bytes": 41525,
+      "sha256": "c65503d2df8ae28aff40283cebf0f188bfb9460087039994dacbd93a0080a52c"
+    },
+    {
+      "path": "json_cases/50150.json",
+      "bytes": 81240,
+      "sha256": "a63327498edcf109d41b5a3feb582bdb6809046bbf26940ceecf3d15c2b65909"
+    },
+    {
+      "path": "json_cases/50151.json",
+      "bytes": 26159,
+      "sha256": "9d5d97b8733ec4035002be5d67b60c8d90a9051fef617655604a9aa725e7fa49"
+    },
+    {
+      "path": "json_cases/50152.json",
+      "bytes": 22071,
+      "sha256": "cb2e3dc7d95b90fe0ba9c39335b0da9e0dae2d15837bddc02902f85cf26519cd"
+    },
+    {
+      "path": "json_cases/50153.json",
+      "bytes": 48556,
+      "sha256": "0fd6c5008cd69095754c219ebcd18278ca1689d9e0c864f5f31bd0d468ad4345"
+    },
+    {
+      "path": "json_cases/50154.json",
+      "bytes": 65278,
+      "sha256": "b0470b74e913c45f32c4049f075cf9d6195a748c18267408bf7f6b3881c1beac"
+    },
+    {
+      "path": "json_cases/50155.json",
+      "bytes": 11979,
+      "sha256": "352cc28e2b609a42067c3abfca0db1f8cabb0b3fa1c5ec5fd89a30afbb059fd3"
+    },
+    {
+      "path": "json_cases/50156.json",
+      "bytes": 94291,
+      "sha256": "b7c0538b3aa8688f2aa8d440a1944dadc69e3fa8097a700cef2d718eb50121f3"
+    },
+    {
+      "path": "json_cases/50157.json",
+      "bytes": 25876,
+      "sha256": "711a3f248daca79bf4dd0a1910516e5006fbb9aa67111422b7a6493a60c45053"
+    },
+    {
+      "path": "json_cases/50158.json",
+      "bytes": 45491,
+      "sha256": "5dcbf4f27cb066877b435864793dddace04ccc69dfbce8975001b986d3db6bbe"
+    },
+    {
+      "path": "json_cases/50159.json",
+      "bytes": 89920,
+      "sha256": "80f1b38797282130ca43a66b499f82cec61727566777a9d877726895d941a9fe"
+    },
+    {
+      "path": "json_cases/50160.json",
+      "bytes": 26526,
+      "sha256": "a33c69a3fc59b9e8d46e7a4da60637c9e68297d22e397e24f39e2ca2c97e6370"
+    },
+    {
+      "path": "json_cases/50161.json",
+      "bytes": 38898,
+      "sha256": "b55e342e101c400722ba39a9a528428ba5656dc3d0907cab2994d608845db860"
+    },
+    {
+      "path": "json_cases/50162.json",
+      "bytes": 40372,
+      "sha256": "6a25107f8007f6a56e60d957fee4cc0105eee549c560508eea8b73682873f8ec"
+    },
+    {
+      "path": "json_cases/50163.json",
+      "bytes": 23421,
+      "sha256": "949ce5113bd9bbc1a31f7b679df4fa6807b10d9ce64d80cb9b6dbd7ef5a54327"
+    },
+    {
+      "path": "json_cases/50164.json",
+      "bytes": 31386,
+      "sha256": "b6de572e72577688f296e94ac7326d8ac64a0959be1f7c927dbbe30d63c7687a"
+    },
+    {
+      "path": "json_cases/50165.json",
+      "bytes": 57582,
+      "sha256": "39cfca995179b65766c2c15d17a3d4657692e9a0d41b73da8aef72588676be76"
+    },
+    {
+      "path": "json_cases/50166.json",
+      "bytes": 76023,
+      "sha256": "b710ffc17b74f8a748c0027f2c3f29a2e7b2718525e52967b502d886671c88aa"
+    },
+    {
+      "path": "json_cases/50167.json",
+      "bytes": 24235,
+      "sha256": "c0a54d436dd891789b63e6182527d5972f8337549b9d27eee1e76881f62f457d"
+    },
+    {
+      "path": "json_cases/50168.json",
+      "bytes": 32679,
+      "sha256": "b8b5654b4c0912936cd76b8c8493d6f28a276d42221ca4e1a0fca97d5800b679"
+    },
+    {
+      "path": "json_cases/50169.json",
+      "bytes": 17942,
+      "sha256": "170824a2f4e0f545e48b5a241cb0209b4c8e21d36a3bf51dfe3db311fa8c17ef"
+    },
+    {
+      "path": "json_cases/50170.json",
+      "bytes": 31358,
+      "sha256": "fa0730858a77bdc563a05394ea29770d200b81f06c9b40e15ad83b9d6ae706ee"
+    },
+    {
+      "path": "json_cases/50171.json",
+      "bytes": 36479,
+      "sha256": "924b8cdb773256926fc7b96e55d9d0157810b4ab63cae1a737bf943755f89c59"
+    },
+    {
+      "path": "json_cases/50172.json",
+      "bytes": 34631,
+      "sha256": "591d89c85ba233facebaabddc50374dbdcf02f5d76aa41d547596af44f4e015b"
+    },
+    {
+      "path": "json_cases/50173.json",
+      "bytes": 21354,
+      "sha256": "29656a5327411970eb2bf98db4236365dc3a4d23f8747e04685c13c1135f8cda"
+    },
+    {
+      "path": "json_cases/50174.json",
+      "bytes": 33552,
+      "sha256": "f3fb3eb4659c23867a718df95f60d5533fa730db9d0e9295c0a52b06aee54906"
+    }
+  ]
+}

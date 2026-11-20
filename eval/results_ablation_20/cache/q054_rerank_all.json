@@ -1,0 +1,246 @@
+{
+  "signature": "22783f9ac735dbb04dd9126e4e0c6cd7636f47205697f05023f3ab2b4fc7419f",
+  "value": [
+    {
+      "index": 0,
+      "relevance_score": 0.9479399226601826
+    },
+    {
+      "index": 10,
+      "relevance_score": 0.6561203507742048
+    },
+    {
+      "index": 34,
+      "relevance_score": 0.603846213599196
+    },
+    {
+      "index": 2,
+      "relevance_score": 0.6028558252297971
+    },
+    {
+      "index": 6,
+      "relevance_score": 0.5773807694666184
+    },
+    {
+      "index": 35,
+      "relevance_score": 0.5751582638038538
+    },
+    {
+      "index": 38,
+      "relevance_score": 0.5718842339430155
+    },
+    {
+      "index": 29,
+      "relevance_score": 0.5715473502604178
+    },
+    {
+      "index": 1,
+      "relevance_score": 0.5668982764472347
+    },
+    {
+      "index": 22,
+      "relevance_score": 0.5587287569794281
+    },
+    {
+      "index": 47,
+      "relevance_score": 0.5575354894292892
+    },
+    {
+      "index": 42,
+      "relevance_score": 0.5568199915263344
+    },
+    {
+      "index": 41,
+      "relevance_score": 0.5538650801668287
+    },
+    {
+      "index": 20,
+      "relevance_score": 0.5502915734841768
+    },
+    {
+      "index": 3,
+      "relevance_score": 0.5489343494958953
+    },
+    {
+      "index": 5,
+      "relevance_score": 0.5487568948568401
+    },
+    {
+      "index": 30,
+      "relevance_score": 0.5383443891523008
+    },
+    {
+      "index": 11,
+      "relevance_score": 0.5288531367332153
+    },
+    {
+      "index": 55,
+      "relevance_score": 0.5276546776088599
+    },
+    {
+      "index": 54,
+      "relevance_score": 0.5269772059488695
+    },
+    {
+      "index": 48,
+      "relevance_score": 0.5182288225736051
+    },
+    {
+      "index": 50,
+      "relevance_score": 0.5153946155616752
+    },
+    {
+      "index": 56,
+      "relevance_score": 0.5137320643425821
+    },
+    {
+      "index": 33,
+      "relevance_score": 0.5136191539731683
+    },
+    {
+      "index": 4,
+      "relevance_score": 0.5127089365701857
+    },
+    {
+      "index": 46,
+      "relevance_score": 0.49908811093287353
+    },
+    {
+      "index": 36,
+      "relevance_score": 0.4988841066733372
+    },
+    {
+      "index": 28,
+      "relevance_score": 0.4971847070895076
+    },
+    {
+      "index": 57,
+      "relevance_score": 0.49181107365484344
+    },
+    {
+      "index": 17,
+      "relevance_score": 0.49062105523529354
+    },
+    {
+      "index": 59,
+      "relevance_score": 0.4874281276799676
+    },
+    {
+      "index": 15,
+      "relevance_score": 0.4853463788204898
+    },
+    {
+      "index": 13,
+      "relevance_score": 0.48260990121037045
+    },
+    {
+      "index": 44,
+      "relevance_score": 0.4784155190261522
+    },
+    {
+      "index": 58,
+      "relevance_score": 0.4779263896717314
+    },
+    {
+      "index": 45,
+      "relevance_score": 0.4724486550072167
+    },
+    {
+      "index": 18,
+      "relevance_score": 0.4717068436103696
+    },
+    {
+      "index": 43,
+      "relevance_score": 0.4715353145101713
+    },
+    {
+      "index": 12,
+      "relevance_score": 0.46408295770364116
+    },
+    {
+      "index": 53,
+      "relevance_score": 0.457233599157992
+    },
+    {
+      "index": 39,
+      "relevance_score": 0.45512557014288757
+    },
+    {
+      "index": 32,
+      "relevance_score": 0.4548247465695643
+    },
+    {
+      "index": 31,
+      "relevance_score": 0.44674520837424264
+    },
+    {
+      "index": 52,
+      "relevance_score": 0.4457946459373678
+    },
+    {
+      "index": 51,
+      "relevance_score": 0.44110729627689665
+    },
+    {
+      "index": 37,
+      "relevance_score": 0.4362886442526291
+    },
+    {
+      "index": 40,
+      "relevance_score": 0.4328222021388258
+    },
+    {
+      "index": 49,
+      "relevance_score": 0.4305501567862689
+    },
+    {
+      "index": 16,
+      "relevance_score": 0.4244418887424417
+    },
+    {
+      "index": 27,
+      "relevance_score": 0.41298171009003265
+    },
+    {
+      "index": 19,
+      "relevance_score": 0.40823631641851227
+    },
+    {
+      "index": 24,
+      "relevance_score": 0.4002482416582374
+    },
+    {
+      "index": 23,
+      "relevance_score": 0.3977023124503623
+    },
+    {
+      "index": 7,
+      "relevance_score": 0.3835151544466547
+    },
+    {
+      "index": 21,
+      "relevance_score": 0.3822637913680322
+    },
+    {
+      "index": 25,
+      "relevance_score": 0.3765315017085673
+    },
+    {
+      "index": 26,
+      "relevance_score": 0.37115403654522067
+    },
+    {
+      "index": 8,
+      "relevance_score": 0.3560423408637111
+    },
+    {
+      "index": 9,
+      "relevance_score": 0.35296439563072757
+    },
+    {
+      "index": 14,
+      "relevance_score": 0.3497981781249973
+    }
+  ],
+  "seconds": 5.749326500001189
+}

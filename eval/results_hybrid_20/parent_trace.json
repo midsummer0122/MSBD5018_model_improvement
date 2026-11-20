@@ -1,0 +1,988 @@
+[
+  {
+    "query_id": "q001",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q001",
+    "parent_id": "50069_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q004",
+    "parent_id": "00002_p004",
+    "doc_type": "statute",
+    "M1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    },
+    "M2": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    },
+    "M3": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    }
+  },
+  {
+    "query_id": "q004",
+    "parent_id": "50071_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_source_quota_displacement"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_source_quota_displacement"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_source_quota_displacement"
+    }
+  },
+  {
+    "query_id": "q008",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q008",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    },
+    "M3": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    }
+  },
+  {
+    "query_id": "q008",
+    "parent_id": "50002_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q011",
+    "parent_id": "00017_p008",
+    "doc_type": "statute",
+    "M1": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    },
+    "M2": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    },
+    "M3": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    }
+  },
+  {
+    "query_id": "q011",
+    "parent_id": "50009_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q014",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    }
+  },
+  {
+    "query_id": "q014",
+    "parent_id": "00002_p008",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M2": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    },
+    "M3": {
+      "recall": false,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "initial_not_recalled"
+    }
+  },
+  {
+    "query_id": "q014",
+    "parent_id": "50068_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q017",
+    "parent_id": "00017_p006",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    }
+  },
+  {
+    "query_id": "q017",
+    "parent_id": "50123_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q021",
+    "parent_id": "20008_p020",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q021",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    }
+  },
+  {
+    "query_id": "q024",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q025",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q029",
+    "parent_id": "00002_p005",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q033",
+    "parent_id": "00002_p004",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q038",
+    "parent_id": "00012_p005",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q042",
+    "parent_id": "00002_p006",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q043",
+    "parent_id": "00001_p004",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q047",
+    "parent_id": "00001_p004",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q050",
+    "parent_id": "00001_p002",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q050",
+    "parent_id": "00001_p004",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q054",
+    "parent_id": "20008_p021",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q055",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    }
+  },
+  {
+    "query_id": "q055",
+    "parent_id": "00002_p008",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "rerank_score_below_global20"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": false,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "rerank_score_below_global20"
+    }
+  },
+  {
+    "query_id": "q055",
+    "parent_id": "50068_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q057",
+    "parent_id": "00002_p004",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": false,
+      "in_global_rerank20_before_child_quota": false,
+      "in_global_parent5_before_final_quota": false,
+      "diagnostic_reason": "parent_score_below_global5"
+    }
+  },
+  {
+    "query_id": "q057",
+    "parent_id": "50071_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q060",
+    "parent_id": "00002_p003",
+    "doc_type": "statute",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  },
+  {
+    "query_id": "q060",
+    "parent_id": "50074_p001",
+    "doc_type": "case",
+    "M1": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M2": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    },
+    "M3": {
+      "recall": true,
+      "rerank": true,
+      "evidence": true,
+      "in_global_rerank20_before_child_quota": true,
+      "in_global_parent5_before_final_quota": true,
+      "diagnostic_reason": "final_hit"
+    }
+  }
+]

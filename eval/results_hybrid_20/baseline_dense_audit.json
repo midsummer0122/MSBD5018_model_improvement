@@ -1,0 +1,852 @@
+[
+  {
+    "query_id": "q001",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50069_p001"
+          ],
+          "initial_missing": [
+            "50069_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50069_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q004",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p004"
+          ],
+          "initial_missing": [
+            "00002_p004"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50071_p001"
+          ],
+          "initial_missing": [
+            "50071_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p004"
+          ],
+          "initial_missing": [
+            "00002_p004"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50071_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "50071_p001"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q008",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p003",
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50002_p001"
+          ],
+          "initial_missing": [
+            "50002_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p003",
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50002_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q011",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00017_p008"
+          ],
+          "initial_missing": [
+            "00017_p008"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50009_p001"
+          ],
+          "initial_missing": [
+            "50009_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00017_p008"
+          ],
+          "initial_missing": [
+            "00017_p008"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50009_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q014",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p003",
+            "00002_p008"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "00002_p003"
+          ]
+        },
+        "case": {
+          "gt": [
+            "50068_p001"
+          ],
+          "initial_missing": [
+            "50068_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p003",
+            "00002_p008"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "00002_p003",
+            "00002_p008"
+          ]
+        },
+        "case": {
+          "gt": [
+            "50068_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q017",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00017_p006"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50123_p001"
+          ],
+          "initial_missing": [
+            "50123_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00017_p006"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50123_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q021",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p005",
+            "20008_p020"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "00002_p005"
+          ]
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p005",
+            "20008_p020"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "00002_p005"
+          ]
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q024",
+    "query_type": "法律咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q025",
+    "query_type": "法条解释",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p003"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p003"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q029",
+    "query_type": "法条解释",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q033",
+    "query_type": "法条解释",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q038",
+    "query_type": "法条解释",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00012_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00012_p005"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q042",
+    "query_type": "法条解释",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p006"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p006"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q043",
+    "query_type": "程序咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00001_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00001_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q047",
+    "query_type": "程序咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00001_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00001_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q050",
+    "query_type": "程序咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00001_p002",
+            "00001_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00001_p002",
+            "00001_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q054",
+    "query_type": "程序咨询",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "20008_p021"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "20008_p021"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q055",
+    "query_type": "案例检索",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p003",
+            "00002_p008"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "00002_p003"
+          ]
+        },
+        "case": {
+          "gt": [
+            "50068_p001"
+          ],
+          "initial_missing": [
+            "50068_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p003",
+            "00002_p008"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "00002_p003",
+            "00002_p008"
+          ]
+        },
+        "case": {
+          "gt": [
+            "50068_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q057",
+    "query_type": "案例检索",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50071_p001"
+          ],
+          "initial_missing": [
+            "50071_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p004"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": [
+            "00002_p004"
+          ]
+        },
+        "case": {
+          "gt": [
+            "50071_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  },
+  {
+    "query_id": "q060",
+    "query_type": "案例检索",
+    "funnel": {
+      "V1": {
+        "statute": {
+          "gt": [
+            "00002_p003"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50074_p001"
+          ],
+          "initial_missing": [
+            "50074_p001"
+          ],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      },
+      "V4": {
+        "statute": {
+          "gt": [
+            "00002_p003"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        },
+        "case": {
+          "gt": [
+            "50074_p001"
+          ],
+          "initial_missing": [],
+          "initial_hit_but_rerank_lost": [],
+          "rerank_hit_but_evidence_lost": []
+        }
+      }
+    }
+  }
+]

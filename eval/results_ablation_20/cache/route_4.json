@@ -1,0 +1,5 @@
+{
+  "signature": "25ce210c8e818472e132192083465a779dca77e9d3edc3e9d01cb59a9524d63a",
+  "value": "{\"intents\": [\"案例检索\"], \"entities\": {\"legal_relations\": [\"劳动关系\"], \"causes\": [\"追索劳动报酬\"]}, \"missing_info\": [], \"need_followup\": false, \"retrieval_targets\": [\"case_db\", \"statute_db\"], \"query_type\": \"knowledge_question\", \"user_goal\": \"查找追索劳动报酬的类似案例并了解法院裁判思路\", \"topic_relation\": \"new_topic\", \"rewritten_query\": \"追索劳动报酬 案例 裁判思路\", \"satisfied_info\": []}",
+  "seconds": 5.745353500002238
+}

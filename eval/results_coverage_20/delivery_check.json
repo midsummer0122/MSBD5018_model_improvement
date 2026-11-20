@@ -1,0 +1,10 @@
+{
+  "protected_inputs_and_all_historical_reports_unchanged": true,
+  "qdrant_count_and_vector_config_unchanged": true,
+  "all_40_evidence_metrics_reconciled": true,
+  "initial_C0_C1_packs_identical": true,
+  "all_current_code_hashes_match": true,
+  "sensitive_values_found": false,
+  "report_local_links_checked": 14,
+  "report1_length_ratio": 0.5817516066357794
+}

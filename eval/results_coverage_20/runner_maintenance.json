@@ -1,0 +1,6 @@
+{
+  "initial_runner_sha256": "37d567170bb81edcbabd72b8dc58a78363680e6bbcff9f0d151596c66b246e04",
+  "final_runner_sha256": "f5cdf0bd2823c407ae1cca51a245f078875255a9c5e60326ebe75afc6e1b4d42",
+  "coverage_algorithm_hash_unchanged": true,
+  "reason": "Portable input-lock bootstrap and reassembly from the last atomic checkpoint; no diagnosis, search or replacement changes."
+}

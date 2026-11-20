@@ -1,0 +1,5 @@
+{
+  "signature": "9c336cc7e5844c25dbc6a3880a2a52e52741a6086e90000fd5f77b2c2a1245d7",
+  "value": "{\"intents\": [\"法条解释\"], \"entities\": {\"statutes\": [\"劳动合同法\"], \"amounts\": [\"经济补偿\"]}, \"missing_info\": [], \"need_followup\": false, \"retrieval_targets\": [\"statute_db\"], \"query_type\": \"knowledge_question\", \"user_goal\": \"了解劳动合同法第四十七条经济补偿的计算规则\", \"topic_relation\": \"new_topic\", \"rewritten_query\": \"劳动合同法 第四十七条 经济补偿 计算规则\", \"satisfied_info\": []}",
+  "seconds": 5.683778300000995
+}

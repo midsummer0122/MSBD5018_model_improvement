@@ -1,0 +1,25 @@
+{
+  "queries": 60,
+  "splits": {
+    "test": 48,
+    "dev": 12
+  },
+  "intents": {
+    "法律咨询": 24,
+    "法条解释": 18,
+    "程序咨询": 12,
+    "案例检索": 6
+  },
+  "case_labeled_queries": 24,
+  "statute_only_queries": 36,
+  "verified_source_quotes": 101,
+  "annotation_method": "Source-first manual scenario/rule design + literal parent quotation checks; no retrieval used",
+  "limitations": [
+    "Curated binary positives are not exhaustive relevance judgments for all 302 documents.",
+    "Parent-level labels describe rule-bearing original parents; evidence text may be truncated.",
+    "No independent second human annotation; authoring and source checking were performed by the same assistant."
+  ],
+  "dataset_sha256": "524c2736138d79301773920f2586a9afd3a24c27554f528ef374579df22e5c60",
+  "catalog_sha256": "aedfc9fb79a1fd614f69a02d9a9068330ff8edf8d18a29bcd08706bb5fc89f08",
+  "frozen_at_utc": "2026-11-20T08:13:36.829338+00:00"
+}

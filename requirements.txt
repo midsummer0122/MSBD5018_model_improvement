@@ -1,0 +1,18 @@
+# Web 框架（app.py 后端）
+flask>=3.0
+
+# LLM / Embedding（阿里云 DashScope，兼容 OpenAI 接口）
+openai>=1.0
+
+# MySQL 父块存储（运行时父块回补 + 入库脚本）
+pymysql>=1.1
+cryptography>=42.0
+
+# YAML 配置解析（api_config.yaml）
+pyyaml>=6.0
+
+# 案例 PDF 文本提取（scripts/chunk_case_pdfs.py）
+pymupdf>=1.24
+
+# 中文法律词法检索；Okapi BM25 在 rag/lexical.py 中实现
+jieba==0.42.1

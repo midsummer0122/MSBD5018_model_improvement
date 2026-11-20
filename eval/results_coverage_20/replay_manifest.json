@@ -1,0 +1,26 @@
+{
+  "complete": true,
+  "queries": 20,
+  "checked": 8,
+  "gate_skipped": 12,
+  "diagnosis_failures": 0,
+  "searched_query_ids": [
+    "q024"
+  ],
+  "replaced_query_ids": [
+    "q024"
+  ],
+  "api_success_counts": {
+    "diagnosis": 8,
+    "embedding": 1,
+    "qdrant_search": 1,
+    "unified_rerank": 1
+  },
+  "api_failed_attempts": 0,
+  "elapsed_this_invocation_seconds": 0.5235370000009425,
+  "total_query_incremental_seconds": 68.83106169998791,
+  "mysql_json_fallback_calls": 0,
+  "private_config_and_all_historical_reports_unchanged": true,
+  "qdrant_writes": 0,
+  "replay": true
+}

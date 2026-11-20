@@ -1,0 +1,50 @@
+{
+  "statute": {
+    "collection": "law_statutes",
+    "points_count": 1384,
+    "vectors": {
+      "size": 1024,
+      "distance": "Cosine"
+    },
+    "all_payloads_compared": 1384,
+    "all_exact_match": true,
+    "payload_sha256": "14043ac4b7772aa26fe158303bccc8fa956cb9eb3392e8637f53cae156cce35a",
+    "sample_ids": [
+      "00001_c001",
+      "00005_c003",
+      "00009_c044",
+      "00015_c003",
+      "10005_c001",
+      "20006_c001",
+      "30004_c001",
+      "30015_c012",
+      "30022_c002",
+      "30030_c009"
+    ],
+    "state_signature": "af35a77d7200085f9dc35c9631836b6da33ab1e2d24adca45a0bbbeeb4f577ed"
+  },
+  "case": {
+    "collection": "law_cases",
+    "points_count": 2334,
+    "vectors": {
+      "size": 1024,
+      "distance": "Cosine"
+    },
+    "all_payloads_compared": 2334,
+    "all_exact_match": true,
+    "payload_sha256": "1855ba18d73ea530859a5cdd0b07a1b2f6fbab7fe762893801af72c814a2921d",
+    "sample_ids": [
+      "50001_c001",
+      "50018_c002",
+      "50034_c004",
+      "50047_c012",
+      "50065_c013",
+      "50089_c005",
+      "50103_c006",
+      "50124_c013",
+      "50143_c004",
+      "50158_c009"
+    ],
+    "state_signature": "5cda99e18e9a39e349aad823dc0f05608c641794a7371622c7b02e73682ae7eb"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tests_run": 15,
+  "failures": 0,
+  "errors": 0,
+  "successful": true,
+  "groups": [
+    "windtunnel:5",
+    "source_quotas:7",
+    "mysql_setup:3"
+  ]
+}
