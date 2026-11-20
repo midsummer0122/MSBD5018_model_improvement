@@ -1,0 +1,45 @@
+# 配置模板：复制为 api_key/api_config.yaml 后填入真实密钥。
+# 注意：api_key/api_config.yaml 已加入 .gitignore，不会被提交。
+
+llm:
+  provider: deepseek
+  base_url: "https://api.deepseek.com"
+  api_key: ""
+  chat_model: "deepseek-chat"
+  reasoning_model: "deepseek-reasoner"
+  timeout_seconds: 30
+
+embedding:
+  provider: aliyun
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  api_key: ""
+  model: "text-embedding-v4"
+  dimension: 1024
+  timeout_seconds: 30
+
+rerank:
+  provider: aliyun
+  base_url: "https://dashscope.aliyuncs.com/compatible-api/v1/reranks"
+  api_key: ""
+  model: "qwen3-rerank"
+  timeout_seconds: 30
+
+qdrant:
+  provider: qdrant_cloud
+  url: "https://your-qdrant-cloud-url"
+  api_key: ""
+  collection_name: "law_statutes"
+  cases_collection_name: "law_cases"
+  timeout_seconds: 30
+
+mysql:
+  host: "localhost"
+  port: 3306
+  user: ""
+  password: ""
+  database: "law_rag"
+  charset: "utf8mb4"
+
+app:
+  environment: "dev"
+  debug: true
