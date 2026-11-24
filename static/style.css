@@ -280,16 +280,40 @@ textarea {
 
 .retrieval-map {
   margin: 12px 14px 0;
-  padding: 12px;
   border: 1px solid #cbded1;
   border-radius: 8px;
   background: linear-gradient(150deg, #f3f9f4, #ffffff);
   font-size: 12px;
 }
 
-.retrieval-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
-.retrieval-heading h3 { margin: 0; color: var(--accent-dark); font-size: 14px; }
-.route-state { padding: 3px 7px; border-radius: 5px; background: #e8efea; color: #53685b; font-size: 11px; }
+.retrieval-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 12px;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+.retrieval-heading::-webkit-details-marker { display: none; }
+.retrieval-heading h3 { margin: 0; color: var(--accent-dark); font-size: 14px; flex: 1; }
+.route-state { flex: none; padding: 3px 7px; border-radius: 5px; background: #e8efea; color: #53685b; font-size: 11px; white-space: nowrap; }
+.retrieval-chevron {
+  flex: none;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 6px solid var(--muted);
+  transition: transform 0.15s ease;
+}
+.retrieval-map[open] .retrieval-chevron { transform: rotate(180deg); }
+.retrieval-map-body {
+  padding: 0 12px 12px;
+  max-height: clamp(180px, 40vh, 320px);
+  overflow-y: auto;
+}
 .retrieval-mode { margin: 6px 0 10px; color: var(--muted); font-size: 11px; }
 .retrieval-channels { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
 .route-node { border: 1px solid var(--line); background: #fff; border-radius: 5px; transition: background .15s, border-color .15s; }
