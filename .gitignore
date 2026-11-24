@@ -1,6 +1,7 @@
 # ==== 密钥（绝对不能提交）====
 api_key/api_config.yaml
 api_key/qdrant.txt
+api_key/bailian.txt
 
 # ==== Python ====
 __pycache__/
