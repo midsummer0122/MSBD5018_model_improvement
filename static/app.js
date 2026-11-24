@@ -124,6 +124,7 @@ function resetRetrievalMap() {
   document.querySelector("#retrieval-state").textContent = "Not started";
   document.querySelector("#retrieval-state").classList.remove("is-warning");
   document.querySelector("#retrieval-note").textContent = "Runs after the question has enough details. Counts appear as each stage finishes.";
+  retrievalMapEl.open = false;
 }
 
 function updateRetrievalMap(payload) {
@@ -146,6 +147,7 @@ function updateRetrievalMap(payload) {
     retrievalMapEl.querySelector('[data-route-stage="evidence"] .route-value').textContent = `Target ${payload.final_k}`;
     badge.textContent = "Retrieving";
     note.textContent = "Statutes and cases are searched separately, then scored together.";
+    retrievalMapEl.open = true;
     return;
   }
   if (target) {
@@ -197,6 +199,7 @@ function updateRetrievalMap(payload) {
     node.classList.add("is-warning");
   }
   if (stage === "evidence" && status === "completed") {
+    retrievalMapEl.open = false;
     badge.textContent = !payload.count ? "No evidence" : retrievalTrace.fallback ? "Used fallback" : retrievalTrace.contextWarning ? "Partial context" : "Complete";
     badge.classList.toggle("is-warning", !payload.count || retrievalTrace.fallback || retrievalTrace.contextWarning);
     const exactRows = Object.values(retrievalTrace.libraries).map((value) => value.exact).filter(Boolean);
@@ -217,6 +220,7 @@ function interruptRetrievalMap() {
   badge.textContent = retrievalTrace.mode ? "Interrupted" : "Not reached";
   badge.classList.add("is-warning");
   document.querySelector("#retrieval-note").textContent = "Retrieval did not complete. See the error in the conversation.";
+  retrievalMapEl.open = false;
   retrievalMapEl.querySelectorAll(".is-running").forEach((node) => {
     node.classList.remove("is-running");
     node.classList.add("is-warning");

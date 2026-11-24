@@ -22,19 +22,19 @@
           <form id="chat-form" class="composer">
             <div class="composer-options">
               <label class="retrieval-selector" for="retrieval-mode-select">
-                <span>检索模式</span>
+                <span>Retrieval mode</span>
                 <select id="retrieval-mode-select" aria-describedby="retrieval-mode-note" autocomplete="off">
-                  <option value="dense" selected>Dense 语义检索（默认）</option>
+                  <option value="dense" selected>Dense semantic retrieval (default)</option>
                   <option value="dense_bm25">Dense + BM25</option>
-                  <option value="hybrid">混合检索：Dense + BM25 + Exact</option>
+                  <option value="hybrid">Hybrid: Dense + BM25 + Exact</option>
                 </select>
               </label>
-              <small id="retrieval-mode-note">对下一次提问生效；证据覆盖检查单独控制。</small>
+              <small id="retrieval-mode-note">Applies to the next question; evidence coverage check is controlled separately.</small>
               <label class="coverage-toggle" for="coverage-toggle">
                 <input id="coverage-toggle" type="checkbox" role="switch" aria-describedby="coverage-cost-note" autocomplete="off" />
-                <span>证据覆盖检查（可选）</span>
+                <span>Evidence coverage check (optional)</span>
               </label>
-              <small id="coverage-cost-note">默认关闭；开启会增加 API 调用和等待时间。</small>
+              <small id="coverage-cost-note">Off by default; enabling adds API calls and wait time.</small>
             </div>
             <textarea
               id="message-input"
@@ -52,34 +52,37 @@
             <h2>Agent Steps</h2>
             <span id="session-badge">Not started</span>
           </div>
-          <section id="retrieval-map" class="retrieval-map" aria-label="Retrieval execution">
-            <div class="retrieval-heading">
+          <details id="retrieval-map" class="retrieval-map" aria-label="Retrieval execution">
+            <summary class="retrieval-heading">
               <h3>Retrieval route</h3>
               <span id="retrieval-state" class="route-state" aria-live="polite">Not started</span>
-            </div>
-            <p id="retrieval-mode" class="retrieval-mode">Semantic + keyword + legal ID search</p>
-            <div class="retrieval-channels">
-              <div class="route-node route-channel" data-route-stage="dense">
-                <strong>Dense</strong><span class="channel-purpose">Semantic</span>
-                <span class="route-value">Waiting</span>
+              <span class="retrieval-chevron" aria-hidden="true"></span>
+            </summary>
+            <div class="retrieval-map-body">
+              <p id="retrieval-mode" class="retrieval-mode">Semantic + keyword + legal ID search</p>
+              <div class="retrieval-channels">
+                <div class="route-node route-channel" data-route-stage="dense">
+                  <strong>Dense</strong><span class="channel-purpose">Semantic</span>
+                  <span class="route-value">Waiting</span>
+                </div>
+                <div class="route-node route-channel" data-route-stage="bm25">
+                  <strong>BM25</strong><span class="channel-purpose">Keywords</span>
+                  <span class="route-value">Waiting</span>
+                </div>
+                <div class="route-node route-channel" data-route-stage="exact">
+                  <strong>Exact</strong><span class="channel-purpose">Legal IDs</span>
+                  <span class="route-value">Waiting</span>
+                </div>
               </div>
-              <div class="route-node route-channel" data-route-stage="bm25">
-                <strong>BM25</strong><span class="channel-purpose">Keywords</span>
-                <span class="route-value">Waiting</span>
+              <div class="retrieval-flow">
+                <div class="route-node route-flow-node" data-route-stage="fusion"><span>↓ RRF · within each library</span><span class="route-value">Up to 30 / library</span></div>
+                <div class="route-node route-flow-node" data-route-stage="parents"><span>↓ Parent context</span><span class="route-value">Waiting</span></div>
+                <div class="route-node route-flow-node" data-route-stage="rerank"><span>↓ Unified rerank + quotas</span><span class="route-value">Waiting</span></div>
+                <div class="route-node route-flow-node" data-route-stage="evidence"><span>↓ Evidence + quotas</span><span class="route-value">Waiting</span></div>
               </div>
-              <div class="route-node route-channel" data-route-stage="exact">
-                <strong>Exact</strong><span class="channel-purpose">Legal IDs</span>
-                <span class="route-value">Waiting</span>
-              </div>
+              <p id="retrieval-note" class="retrieval-note">Runs after the question has enough details. Counts appear as each stage finishes.</p>
             </div>
-            <div class="retrieval-flow">
-              <div class="route-node route-flow-node" data-route-stage="fusion"><span>↓ RRF · within each library</span><span class="route-value">Up to 30 / library</span></div>
-              <div class="route-node route-flow-node" data-route-stage="parents"><span>↓ Parent context</span><span class="route-value">Waiting</span></div>
-              <div class="route-node route-flow-node" data-route-stage="rerank"><span>↓ Unified rerank + quotas</span><span class="route-value">Waiting</span></div>
-              <div class="route-node route-flow-node" data-route-stage="evidence"><span>↓ Evidence + quotas</span><span class="route-value">Waiting</span></div>
-            </div>
-            <p id="retrieval-note" class="retrieval-note">Runs after the question has enough details. Counts appear as each stage finishes.</p>
-          </section>
+          </details>
           <div id="steps" class="steps"></div>
         </aside>
       </section>
